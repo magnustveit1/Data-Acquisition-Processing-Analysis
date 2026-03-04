@@ -1,0 +1,5 @@
+#!/uufs/chpc.utah.edu/common/home/u0972368/Hydroinformatics/Data-Acquisition-Processing-Analysis/hyriver_env/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

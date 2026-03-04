@@ -1,0 +1,7 @@
+prefix=/uufs/chpc.utah.edu/common/home/u0972368/Hydroinformatics/Data-Acquisition-Processing-Analysis/hyriver_env
+includedir=${prefix}/include
+
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.12.0
+Cflags: -I${includedir}

@@ -1,0 +1,191 @@
+{
+    "arch": null,
+    "build": "pyha770c72_0",
+    "build_number": 0,
+    "build_string": "pyha770c72_0",
+    "channel": "conda-forge",
+    "depends": [
+        "orjson",
+        "aiofiles",
+        "cytoolz",
+        "brotli",
+        "aiodns",
+        "python >=3.9",
+        "aiohttp-client-cache >=0.12.3"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/async-retriever-0.19.3-pyha770c72_0",
+    "files": [
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/METADATA",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/RECORD",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/WHEEL",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/async_retriever/__init__.py",
+        "lib/python3.10/site-packages/async_retriever/_utils.py",
+        "lib/python3.10/site-packages/async_retriever/async_retriever.py",
+        "lib/python3.10/site-packages/async_retriever/exceptions.py",
+        "lib/python3.10/site-packages/async_retriever/print_versions.py",
+        "lib/python3.10/site-packages/async_retriever/py.typed",
+        "lib/python3.10/site-packages/async_retriever/streaming.py",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/_utils.cpython-310.pyc",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/async_retriever.cpython-310.pyc",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/async_retriever/__pycache__/streaming.cpython-310.pyc"
+    ],
+    "fn": "async-retriever-0.19.3-pyha770c72_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/async-retriever-0.19.3-pyha770c72_0",
+        "type": 1
+    },
+    "md5": "f85eaa922a7021661165f67f3ea8d70b",
+    "name": "async-retriever",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/async-retriever-0.19.3-pyha770c72_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "f6e93ff1f049238664edae62849bab19650f6e8a7d96c7e53c2f42e0aaed760a",
+                "sha256_in_prefix": "f6e93ff1f049238664edae62849bab19650f6e8a7d96c7e53c2f42e0aaed760a",
+                "size_in_bytes": 16391
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "ade40537b54142975a89c0976df0d6c2a14a76bb9f063b8b5d1c5bee7d567d72",
+                "sha256_in_prefix": "ade40537b54142975a89c0976df0d6c2a14a76bb9f063b8b5d1c5bee7d567d72",
+                "size_in_bytes": 1700
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "17ae55368dd39ad407e96fc37b1c816d2c7e7f6f9738a25b720fd378a46c6524",
+                "sha256_in_prefix": "17ae55368dd39ad407e96fc37b1c816d2c7e7f6f9738a25b720fd378a46c6524",
+                "size_in_bytes": 111
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "sha256_in_prefix": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "size_in_bytes": 157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever-0.19.3.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "eebe5fa213ab48ecbd2b1822140fbffe98d2886574ff5c3127b914c315071dfd",
+                "sha256_in_prefix": "eebe5fa213ab48ecbd2b1822140fbffe98d2886574ff5c3127b914c315071dfd",
+                "size_in_bytes": 911
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/_utils.py",
+                "path_type": "hardlink",
+                "sha256": "e76057377f46d3a8450c50b70658752d2b94b4787dbde5d7f0e4da245e976615",
+                "sha256_in_prefix": "e76057377f46d3a8450c50b70658752d2b94b4787dbde5d7f0e4da245e976615",
+                "size_in_bytes": 8217
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/async_retriever.py",
+                "path_type": "hardlink",
+                "sha256": "89fd6f97f3d808ca823847b0aa32e2da8a9759291469ef4b9f5f2e3e70940730",
+                "sha256_in_prefix": "89fd6f97f3d808ca823847b0aa32e2da8a9759291469ef4b9f5f2e3e70940730",
+                "size_in_bytes": 15639
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "4d05c8a134a81b369d70f235e496e5f2efc9ebd9d95b9ae197c1dbd845532c96",
+                "sha256_in_prefix": "4d05c8a134a81b369d70f235e496e5f2efc9ebd9d95b9ae197c1dbd845532c96",
+                "size_in_bytes": 2906
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "sha256_in_prefix": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "size_in_bytes": 4295
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/streaming.py",
+                "path_type": "hardlink",
+                "sha256": "f1b9d75724a7b22059dafc80427b82dd5b4a3894095328771233fd6a2265daf1",
+                "sha256_in_prefix": "f1b9d75724a7b22059dafc80427b82dd5b4a3894095328771233fd6a2265daf1",
+                "size_in_bytes": 5986
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/_utils.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/async_retriever.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/async_retriever/__pycache__/streaming.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "7453a2ccccaf2636d7c1498886e4aab033d114db22d90bda65abb806803ca1cb",
+    "size": 21643,
+    "subdir": "noarch",
+    "timestamp": 1741384507,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/async-retriever-0.19.3-pyha770c72_0.conda",
+    "version": "0.19.3"
+}

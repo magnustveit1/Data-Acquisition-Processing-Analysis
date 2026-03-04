@@ -1,0 +1,42 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "matplotlib-base",
+        "xyzservices",
+        "folium",
+        "python >=3.10",
+        "pyogrio >=0.7.2",
+        "pyproj >=3.5.0",
+        "mapclassify >=2.5.0",
+        "geopandas-base 1.1.2 pyha770c72_0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/geopandas-1.1.2-pyhd8ed1ab_0",
+    "files": [],
+    "fn": "geopandas-1.1.2-pyhd8ed1ab_0.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/geopandas-1.1.2-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "3b9d40bef27d094e48bb1a821e86a252",
+    "name": "geopandas",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/geopandas-1.1.2-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "geopandas",
+    "sha256": "7c3e5dc62c0b3d067a6f517ea9176e9d52682499d4afb78704354a60f37c5444",
+    "size": 8454,
+    "subdir": "noarch",
+    "timestamp": 1766475276,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/geopandas-1.1.2-pyhd8ed1ab_0.conda",
+    "version": "1.1.2"
+}

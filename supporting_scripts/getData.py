@@ -44,7 +44,10 @@ def getSNOTELData(SiteName, SiteID, StateAbb, StartDate, EndDate, OutputFolder):
 
     df.to_csv(f'./{OutputFolder}/df_{SiteID}_{StateAbb}_SNTL.csv', index=False)
 
-def getCaliSNOTELData(SiteName, SiteID, StartDate, EndDate, OutputFolder):
+
+####
+
+def getCaliSNOTELData(SiteName, SiteID, StateAbb, StartDate, EndDate, OutputFolder):
     StateAbb = 'Ca'
     url1 = 'https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customMultiTimeSeriesGroupByStationReport/daily/start_of_period/'
     url2 = f'{SiteID}:CA:MSNT%257Cid=%2522%2522%257Cname/'

@@ -1,0 +1,189 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "scipy",
+        "python >=3.9",
+        "pandas >=1.0",
+        "numpy >=2",
+        "xarray >=2023.03.0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/hydrosignatures-0.19.3-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/METADATA",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/RECORD",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/WHEEL",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/hydrosignatures/__init__.py",
+        "lib/python3.10/site-packages/hydrosignatures/baseflow.py",
+        "lib/python3.10/site-packages/hydrosignatures/exceptions.py",
+        "lib/python3.10/site-packages/hydrosignatures/hydrosignatures.py",
+        "lib/python3.10/site-packages/hydrosignatures/plot.py",
+        "lib/python3.10/site-packages/hydrosignatures/print_versions.py",
+        "lib/python3.10/site-packages/hydrosignatures/py.typed",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/baseflow.cpython-310.pyc",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/hydrosignatures.cpython-310.pyc",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/plot.cpython-310.pyc",
+        "lib/python3.10/site-packages/hydrosignatures/__pycache__/print_versions.cpython-310.pyc"
+    ],
+    "fn": "hydrosignatures-0.19.3-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/hydrosignatures-0.19.3-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "cec75f5360f1f92fedcda3766c1bc927",
+    "name": "hydrosignatures",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/hydrosignatures-0.19.3-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "ddaabc73e043113e4a748703fb8a4fadd360c6acc088032ecc2bda9bf47b1683",
+                "sha256_in_prefix": "ddaabc73e043113e4a748703fb8a4fadd360c6acc088032ecc2bda9bf47b1683",
+                "size_in_bytes": 14823
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "4900e0f3fbeb03c31f4e2f21522aeb59a92dc39f52bfa366ed13edaa13e7d2ca",
+                "sha256_in_prefix": "4900e0f3fbeb03c31f4e2f21522aeb59a92dc39f52bfa366ed13edaa13e7d2ca",
+                "size_in_bytes": 1696
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "5b7597ff14b00ab4ed431d0ef8e8bb43cfb54246f32d4ade74c1d6df7b67d147",
+                "sha256_in_prefix": "5b7597ff14b00ab4ed431d0ef8e8bb43cfb54246f32d4ade74c1d6df7b67d147",
+                "size_in_bytes": 111
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "sha256_in_prefix": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "size_in_bytes": 157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures-0.19.3.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "f6e1ba7eb2509aadf237adac51cb2e00adaa883946018737ceeb1606968592f1",
+                "sha256_in_prefix": "f6e1ba7eb2509aadf237adac51cb2e00adaa883946018737ceeb1606968592f1",
+                "size_in_bytes": 1157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/baseflow.py",
+                "path_type": "hardlink",
+                "sha256": "0e6c30ef16d83d49112c7f33206f5234054ec3c490434f63ede7a84610bd5553",
+                "sha256_in_prefix": "0e6c30ef16d83d49112c7f33206f5234054ec3c490434f63ede7a84610bd5553",
+                "size_in_bytes": 19090
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "532a9c4793f1b5b4ea3f14bf50e7ca7fa6ac0160a2f9b6d281bdc09c33affed6",
+                "sha256_in_prefix": "532a9c4793f1b5b4ea3f14bf50e7ca7fa6ac0160a2f9b6d281bdc09c33affed6",
+                "size_in_bytes": 2304
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/hydrosignatures.py",
+                "path_type": "hardlink",
+                "sha256": "398ff034867a47d9b611a8831671ea8b55f57ac1c74312f54b5afcb68a77789e",
+                "sha256_in_prefix": "398ff034867a47d9b611a8831671ea8b55f57ac1c74312f54b5afcb68a77789e",
+                "size_in_bytes": 21144
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/plot.py",
+                "path_type": "hardlink",
+                "sha256": "beffc2bdf37e0b7040c80a422739935bfa772a2d5409be7a3e2d4ccb22322e8f",
+                "sha256_in_prefix": "beffc2bdf37e0b7040c80a422739935bfa772a2d5409be7a3e2d4ccb22322e8f",
+                "size_in_bytes": 6822
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "sha256_in_prefix": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "size_in_bytes": 4295
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/baseflow.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/hydrosignatures.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/plot.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/hydrosignatures/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "523f4364710d39c2f16d05642b8d9115870f7a6bb70d1784ae44cb5a5f9e546c",
+    "size": 26470,
+    "subdir": "noarch",
+    "timestamp": 1741387313,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/hydrosignatures-0.19.3-pyhd8ed1ab_0.conda",
+    "version": "0.19.3"
+}

@@ -1,0 +1,102 @@
+{
+    "arch": "x86_64",
+    "build": "h635bf11_3_cpu",
+    "build_number": 3,
+    "build_string": "h635bf11_3_cpu",
+    "channel": "conda-forge",
+    "depends": [
+        "__glibc >=2.17,<3.0.a0",
+        "libgcc >=14",
+        "libstdcxx >=14",
+        "libarrow 23.0.1 h711ef25_3_cpu",
+        "libarrow-compute 23.0.1 h53684a4_3_cpu"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-acero-23.0.1-h635bf11_3_cpu",
+    "files": [
+        "lib/cmake/ArrowAcero/ArrowAceroConfig.cmake",
+        "lib/cmake/ArrowAcero/ArrowAceroConfigVersion.cmake",
+        "lib/cmake/ArrowAcero/ArrowAceroTargets-release.cmake",
+        "lib/cmake/ArrowAcero/ArrowAceroTargets.cmake",
+        "lib/libarrow_acero.so",
+        "lib/libarrow_acero.so.2300",
+        "lib/libarrow_acero.so.2300.1.0",
+        "lib/pkgconfig/arrow-acero.pc"
+    ],
+    "fn": "libarrow-acero-23.0.1-h635bf11_3_cpu.conda",
+    "license": "Apache-2.0",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-acero-23.0.1-h635bf11_3_cpu",
+        "type": 1
+    },
+    "md5": "312f95714162590832593173872b9e1d",
+    "name": "libarrow-acero",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-acero-23.0.1-h635bf11_3_cpu.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/cmake/ArrowAcero/ArrowAceroConfig.cmake",
+                "path_type": "hardlink",
+                "sha256": "b1e562dc69f824c953be61f4e5b6f85aa0b1441583daaf2b04c20e78c0ad2d5c",
+                "sha256_in_prefix": "b1e562dc69f824c953be61f4e5b6f85aa0b1441583daaf2b04c20e78c0ad2d5c",
+                "size_in_bytes": 2456
+            },
+            {
+                "_path": "lib/cmake/ArrowAcero/ArrowAceroConfigVersion.cmake",
+                "path_type": "hardlink",
+                "sha256": "6c7076aeff562bc6d31ca3f21452a5799f5749ea8a3814a17adb3baecdb66409",
+                "sha256_in_prefix": "6c7076aeff562bc6d31ca3f21452a5799f5749ea8a3814a17adb3baecdb66409",
+                "size_in_bytes": 2765
+            },
+            {
+                "_path": "lib/cmake/ArrowAcero/ArrowAceroTargets-release.cmake",
+                "path_type": "hardlink",
+                "sha256": "ef4bcbd423ff57b24844f5ecd2a4b0325ad4a8bf1cc798749d771be9548165b9",
+                "sha256_in_prefix": "ef4bcbd423ff57b24844f5ecd2a4b0325ad4a8bf1cc798749d771be9548165b9",
+                "size_in_bytes": 1224
+            },
+            {
+                "_path": "lib/cmake/ArrowAcero/ArrowAceroTargets.cmake",
+                "path_type": "hardlink",
+                "sha256": "3b47dcf0c1c9149a909ed5c8bbbc4961f6f7ea3d6fa1cf5adf8061e3b3b8ae06",
+                "sha256_in_prefix": "3b47dcf0c1c9149a909ed5c8bbbc4961f6f7ea3d6fa1cf5adf8061e3b3b8ae06",
+                "size_in_bytes": 4271
+            },
+            {
+                "_path": "lib/libarrow_acero.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "fcf28c519734f47ada1c64a1002cbcfc71c8af1aac3211ccf0823f7a2d73b1c5",
+                "size_in_bytes": 2051960
+            },
+            {
+                "_path": "lib/libarrow_acero.so.2300",
+                "path_type": "softlink",
+                "sha256_in_prefix": "fcf28c519734f47ada1c64a1002cbcfc71c8af1aac3211ccf0823f7a2d73b1c5",
+                "size_in_bytes": 2051960
+            },
+            {
+                "_path": "lib/libarrow_acero.so.2300.1.0",
+                "path_type": "hardlink",
+                "sha256": "fcf28c519734f47ada1c64a1002cbcfc71c8af1aac3211ccf0823f7a2d73b1c5",
+                "sha256_in_prefix": "fcf28c519734f47ada1c64a1002cbcfc71c8af1aac3211ccf0823f7a2d73b1c5",
+                "size_in_bytes": 2051960
+            },
+            {
+                "_path": "lib/pkgconfig/arrow-acero.pc",
+                "path_type": "hardlink",
+                "sha256": "2a3bf9edcf24ca12aaf932bf3dcf8ab6b802f9e04d53a86b81a4af2d2c648d8d",
+                "sha256_in_prefix": "2266d0c7ce2d05368573781b2c6479a87c924d88e3bd0b8593fcd8753c3c953e",
+                "size_in_bytes": 1270
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "d2c23e450ebcbab93ed34746d3ef067140b5a79b7d5109253b57f2b6974e17d7",
+    "size": 609403,
+    "subdir": "linux-64",
+    "timestamp": 1772107298,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/libarrow-acero-23.0.1-h635bf11_3_cpu.conda",
+    "version": "23.0.1"
+}

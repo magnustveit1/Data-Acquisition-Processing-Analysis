@@ -1,0 +1,128 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "python >=3.6",
+        "pycares >=4.0.0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/aiodns-3.0.0-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/LICENSE",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/top_level.txt",
+        "lib/python3.10/site-packages/aiodns/__init__.py",
+        "lib/python3.10/site-packages/aiodns/error.py",
+        "lib/python3.10/site-packages/aiodns/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/aiodns/__pycache__/error.cpython-310.pyc"
+    ],
+    "fn": "aiodns-3.0.0-pyhd8ed1ab_0.tar.bz2",
+    "license": "MIT",
+    "license_family": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/aiodns-3.0.0-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "ca51167c2f1e2e1d881c80f6c9e542aa",
+    "name": "aiodns",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/aiodns-3.0.0-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "eb0455d35129425ed399883cd710923de3e246a510e2eb84d9f00032d0bbec97",
+                "sha256_in_prefix": "eb0455d35129425ed399883cd710923de3e246a510e2eb84d9f00032d0bbec97",
+                "size_in_bytes": 1070
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "3644bf4c88dda7ac5a276bdeeef4813ea237c47995a9fb520391f782e34558ac",
+                "sha256_in_prefix": "3644bf4c88dda7ac5a276bdeeef4813ea237c47995a9fb520391f782e34558ac",
+                "size_in_bytes": 3520
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "eef5b0c91a8676fa941b743f6e90abd07df17bb2476a4b2a3e6a02e4321d817a",
+                "sha256_in_prefix": "eef5b0c91a8676fa941b743f6e90abd07df17bb2476a4b2a3e6a02e4321d817a",
+                "size_in_bytes": 893
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+                "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+                "size_in_bytes": 92
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "dab005a5e9384ee5aff0637b38341f29c43338adf3949f3bffc1afcc04232032",
+                "sha256_in_prefix": "dab005a5e9384ee5aff0637b38341f29c43338adf3949f3bffc1afcc04232032",
+                "size_in_bytes": 102
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns-3.0.0.dist-info/top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "e49da6dcd58fe1d7b31593694281da8fc9afe3bda23dc53315ba10a2a59c11ee",
+                "sha256_in_prefix": "e49da6dcd58fe1d7b31593694281da8fc9afe3bda23dc53315ba10a2a59c11ee",
+                "size_in_bytes": 7
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "2d892010db79a5657a5a4ad3dbb8c5a4b47daa92cb750a4d53543f953a603c22",
+                "sha256_in_prefix": "2d892010db79a5657a5a4ad3dbb8c5a4b47daa92cb750a4d53543f953a603c22",
+                "size_in_bytes": 5081
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns/error.py",
+                "path_type": "hardlink",
+                "sha256": "7e734f2dcf1c78b93d76bba6c2dfba527e628a8c32580a537bf548a09e604f95",
+                "sha256_in_prefix": "7e734f2dcf1c78b93d76bba6c2dfba527e628a8c32580a537bf548a09e604f95",
+                "size_in_bytes": 134
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/aiodns/__pycache__/error.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "df026a45ea99e4bdb048b611d8e7c796773b204e96a656e01ac33157990a369b",
+    "size": 8929,
+    "subdir": "noarch",
+    "timestamp": 1637834712,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/aiodns-3.0.0-pyhd8ed1ab_0.tar.bz2",
+    "version": "3.0.0"
+}

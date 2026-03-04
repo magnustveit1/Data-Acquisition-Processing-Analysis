@@ -1,0 +1,59 @@
+{
+    "arch": "x86_64",
+    "build": "h0dc7533_1",
+    "build_number": 1,
+    "build_string": "h0dc7533_1",
+    "channel": "conda-forge",
+    "constrains": [
+        "re2 2025.11.05.*"
+    ],
+    "depends": [
+        "__glibc >=2.17,<3.0.a0",
+        "libgcc >=14",
+        "libstdcxx >=14",
+        "libabseil * cxx17*",
+        "libabseil >=20260107.0,<20260108.0a0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libre2-11-2025.11.05-h0dc7533_1",
+    "files": [
+        "lib/libre2.so.11",
+        "lib/libre2.so.11.0.0"
+    ],
+    "fn": "libre2-11-2025.11.05-h0dc7533_1.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libre2-11-2025.11.05-h0dc7533_1",
+        "type": 1
+    },
+    "md5": "ced7f10b6cfb4389385556f47c0ad949",
+    "name": "libre2-11",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libre2-11-2025.11.05-h0dc7533_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libre2.so.11",
+                "path_type": "hardlink",
+                "sha256": "0974c4dc5cd2a262cfac4ba04800fb80bcd6a54ad32f6a9f738c1db68d519748",
+                "sha256_in_prefix": "0974c4dc5cd2a262cfac4ba04800fb80bcd6a54ad32f6a9f738c1db68d519748",
+                "size_in_bytes": 599616
+            },
+            {
+                "_path": "lib/libre2.so.11.0.0",
+                "path_type": "hardlink",
+                "sha256": "0974c4dc5cd2a262cfac4ba04800fb80bcd6a54ad32f6a9f738c1db68d519748",
+                "sha256_in_prefix": "0974c4dc5cd2a262cfac4ba04800fb80bcd6a54ad32f6a9f738c1db68d519748",
+                "size_in_bytes": 599616
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "138fc85321a8c0731c1715688b38e2be4fb71db349c9ab25f685315095ae70ff",
+    "size": 213122,
+    "subdir": "linux-64",
+    "timestamp": 1768190028,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/libre2-11-2025.11.05-h0dc7533_1.conda",
+    "version": "2025.11.05"
+}

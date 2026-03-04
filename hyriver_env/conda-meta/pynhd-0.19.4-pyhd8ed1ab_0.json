@@ -1,0 +1,235 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "networkx",
+        "cytoolz",
+        "pyogrio",
+        "python >=3.9",
+        "pandas >=1.0",
+        "numpy >=2",
+        "shapely >=2",
+        "pyarrow >=1.0.1",
+        "geopandas-base >=1",
+        "async-retriever >=0.19.3,<0.20",
+        "pygeoutils >=0.19.5,<0.20",
+        "pygeoogc >=0.19.3,<0.20"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynhd-0.19.4-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/METADATA",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/RECORD",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/WHEEL",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/pynhd/__init__.py",
+        "lib/python3.10/site-packages/pynhd/core.py",
+        "lib/python3.10/site-packages/pynhd/exceptions.py",
+        "lib/python3.10/site-packages/pynhd/network_tools.py",
+        "lib/python3.10/site-packages/pynhd/nhdplus_derived.py",
+        "lib/python3.10/site-packages/pynhd/nldi.py",
+        "lib/python3.10/site-packages/pynhd/print_versions.py",
+        "lib/python3.10/site-packages/pynhd/py.typed",
+        "lib/python3.10/site-packages/pynhd/pygeoapi.py",
+        "lib/python3.10/site-packages/pynhd/pynhd.py",
+        "lib/python3.10/site-packages/pynhd/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/core.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/network_tools.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/nhdplus_derived.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/nldi.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/pygeoapi.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynhd/__pycache__/pynhd.cpython-310.pyc"
+    ],
+    "fn": "pynhd-0.19.4-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynhd-0.19.4-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "8753c759f4f897b8036592ce31fb8173",
+    "name": "pynhd",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynhd-0.19.4-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "ddb09a010b64344e8a72851df4aa4b4a207dd8c182feb6c97963a6c6135a9918",
+                "sha256_in_prefix": "ddb09a010b64344e8a72851df4aa4b4a207dd8c182feb6c97963a6c6135a9918",
+                "size_in_bytes": 25187
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "dff08c05e939a1df1fd223b41271264250f00962e4304b458d8caad8eb5dfde4",
+                "sha256_in_prefix": "dff08c05e939a1df1fd223b41271264250f00962e4304b458d8caad8eb5dfde4",
+                "size_in_bytes": 1846
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "ce8b4ea06b308af03222c9087cd5d0df6752cbc86c5089967762b68cbf224019",
+                "sha256_in_prefix": "ce8b4ea06b308af03222c9087cd5d0df6752cbc86c5089967762b68cbf224019",
+                "size_in_bytes": 101
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "sha256_in_prefix": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "size_in_bytes": 157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd-0.19.4.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "460efe98a8436ca8cbc9ea2c04624bc7402f5775a49964b35bdf5afc2069f331",
+                "sha256_in_prefix": "460efe98a8436ca8cbc9ea2c04624bc7402f5775a49964b35bdf5afc2069f331",
+                "size_in_bytes": 1652
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/core.py",
+                "path_type": "hardlink",
+                "sha256": "327d5b05a50ac848b922d788a6e012f0b13d4ffc57ed2bb6f9421794f026ddb4",
+                "sha256_in_prefix": "327d5b05a50ac848b922d788a6e012f0b13d4ffc57ed2bb6f9421794f026ddb4",
+                "size_in_bytes": 28556
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "f5cf46e15aefa8fe91aabb246efda7b6dde7d9aa4bd3c6d632284c91a7a63c8e",
+                "sha256_in_prefix": "f5cf46e15aefa8fe91aabb246efda7b6dde7d9aa4bd3c6d632284c91a7a63c8e",
+                "size_in_bytes": 3802
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/network_tools.py",
+                "path_type": "hardlink",
+                "sha256": "889c7f2e49a3c9e2c8771f9f2a24b97d182d60c7f36cab61013c03cabb189988",
+                "sha256_in_prefix": "889c7f2e49a3c9e2c8771f9f2a24b97d182d60c7f36cab61013c03cabb189988",
+                "size_in_bytes": 40446
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/nhdplus_derived.py",
+                "path_type": "hardlink",
+                "sha256": "0318413bda383378b542cad36f3b23b2828deac38e39ffa376e04dc5169273f8",
+                "sha256_in_prefix": "0318413bda383378b542cad36f3b23b2828deac38e39ffa376e04dc5169273f8",
+                "size_in_bytes": 27280
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/nldi.py",
+                "path_type": "hardlink",
+                "sha256": "1e48c3def24e8e8732e918a660071b381fcc413a29f41db2a5e4b09c18f1a187",
+                "sha256_in_prefix": "1e48c3def24e8e8732e918a660071b381fcc413a29f41db2a5e4b09c18f1a187",
+                "size_in_bytes": 17785
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "sha256_in_prefix": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "size_in_bytes": 4298
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/pygeoapi.py",
+                "path_type": "hardlink",
+                "sha256": "d8fa2a2b1c7e0b25184c62c873de5de81b556d50cb598a518bf63dd77c42e03b",
+                "sha256_in_prefix": "d8fa2a2b1c7e0b25184c62c873de5de81b556d50cb598a518bf63dd77c42e03b",
+                "size_in_bytes": 19388
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/pynhd.py",
+                "path_type": "hardlink",
+                "sha256": "80de066616f2ec1c52a6cd37b274eeb40dd15ecfb5c8b3e1ef051b446e2dc53e",
+                "sha256_in_prefix": "80de066616f2ec1c52a6cd37b274eeb40dd15ecfb5c8b3e1ef051b446e2dc53e",
+                "size_in_bytes": 18958
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/core.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/network_tools.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/nhdplus_derived.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/nldi.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/pygeoapi.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynhd/__pycache__/pynhd.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "pynhd",
+    "sha256": "17253b0a4a89dff111cfeec76a7e84e664c1e0761f8625678fab113ab7774086",
+    "size": 48296,
+    "subdir": "noarch",
+    "timestamp": 1748103061,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pynhd-0.19.4-pyhd8ed1ab_0.conda",
+    "version": "0.19.4"
+}

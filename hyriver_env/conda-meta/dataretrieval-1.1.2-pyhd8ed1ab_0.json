@@ -1,0 +1,331 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "requests",
+        "pandas",
+        "python >=3.10"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/dataretrieval-1.1.2-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/licenses/LICENSE.md",
+        "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/top_level.txt",
+        "lib/python3.10/site-packages/dataretrieval/__init__.py",
+        "lib/python3.10/site-packages/dataretrieval/_version.py",
+        "lib/python3.10/site-packages/dataretrieval/codes/__init__.py",
+        "lib/python3.10/site-packages/dataretrieval/codes/states.py",
+        "lib/python3.10/site-packages/dataretrieval/codes/timezones.py",
+        "lib/python3.10/site-packages/dataretrieval/nadp.py",
+        "lib/python3.10/site-packages/dataretrieval/nldi.py",
+        "lib/python3.10/site-packages/dataretrieval/nwis.py",
+        "lib/python3.10/site-packages/dataretrieval/py.typed",
+        "lib/python3.10/site-packages/dataretrieval/samples.py",
+        "lib/python3.10/site-packages/dataretrieval/streamstats.py",
+        "lib/python3.10/site-packages/dataretrieval/utils.py",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/__init__.py",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/api.py",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/types.py",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/utils.py",
+        "lib/python3.10/site-packages/dataretrieval/waterwatch.py",
+        "lib/python3.10/site-packages/dataretrieval/wqp.py",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/_version.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/states.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/timezones.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/nadp.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/nldi.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/nwis.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/samples.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/streamstats.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/utils.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/api.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/types.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/utils.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/waterwatch.cpython-310.pyc",
+        "lib/python3.10/site-packages/dataretrieval/__pycache__/wqp.cpython-310.pyc"
+    ],
+    "fn": "dataretrieval-1.1.2-pyhd8ed1ab_0.conda",
+    "license": "CC0-1.0",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/dataretrieval-1.1.2-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "fafe02dec705944ecc927816858d7933",
+    "name": "dataretrieval",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/dataretrieval-1.1.2-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "4775e27ae9c9520b28ba526d7ce0076d6388ee56a2ac35c4e79078cc97a1a7b0",
+                "sha256_in_prefix": "4775e27ae9c9520b28ba526d7ce0076d6388ee56a2ac35c4e79078cc97a1a7b0",
+                "size_in_bytes": 13188
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "2351a0a4d091f85bc22d02fbb5d0d0cc73264ef967cd76da0681f6c8b154fcfc",
+                "sha256_in_prefix": "2351a0a4d091f85bc22d02fbb5d0d0cc73264ef967cd76da0681f6c8b154fcfc",
+                "size_in_bytes": 3191
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "c14c80f0e6ae95195b7f032d990b2f367806af140702f90a72f466762ce5262d",
+                "sha256_in_prefix": "c14c80f0e6ae95195b7f032d990b2f367806af140702f90a72f466762ce5262d",
+                "size_in_bytes": 92
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "6cd834b0ab97a5be02567c7618cd5e92b9a5edc3200023ab46f6f246a80501d3",
+                "sha256_in_prefix": "6cd834b0ab97a5be02567c7618cd5e92b9a5edc3200023ab46f6f246a80501d3",
+                "size_in_bytes": 109
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/licenses/LICENSE.md",
+                "path_type": "hardlink",
+                "sha256": "5c49551c79d2dae435e4cfd9da088f1f5be6796333769190e3c22d92e66ead50",
+                "sha256_in_prefix": "5c49551c79d2dae435e4cfd9da088f1f5be6796333769190e3c22d92e66ead50",
+                "size_in_bytes": 1650
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval-0.0.0.dist-info/top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "9f57a05a4bcf95f80206490bd17de46e9f55803bf5555a2cbe0d3d5f92e4c999",
+                "sha256_in_prefix": "9f57a05a4bcf95f80206490bd17de46e9f55803bf5555a2cbe0d3d5f92e4c999",
+                "size_in_bytes": 14
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "b09980efa9f5559889035a54329d68ffe0ed1e3390d659327ca820ac4c23a401",
+                "sha256_in_prefix": "b09980efa9f5559889035a54329d68ffe0ed1e3390d659327ca820ac4c23a401",
+                "size_in_bytes": 461
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/_version.py",
+                "path_type": "hardlink",
+                "sha256": "0dd3eb5e8ecea3dadc5b039e3cebb0fc0ae0f3988699e17204d5beeb409db5d4",
+                "sha256_in_prefix": "0dd3eb5e8ecea3dadc5b039e3cebb0fc0ae0f3988699e17204d5beeb409db5d4",
+                "size_in_bytes": 712
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "eaf64e890c62e8be1c4e32cc5dfb1d32d1da07680242ba406a4f081a8670ead6",
+                "sha256_in_prefix": "eaf64e890c62e8be1c4e32cc5dfb1d32d1da07680242ba406a4f081a8670ead6",
+                "size_in_bytes": 47
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/states.py",
+                "path_type": "hardlink",
+                "sha256": "5a11336e8413d713126c70a9f8aad8ab00136e7b29136b2be8c4be2bd4284a11",
+                "sha256_in_prefix": "5a11336e8413d713126c70a9f8aad8ab00136e7b29136b2be8c4be2bd4284a11",
+                "size_in_bytes": 2410
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/timezones.py",
+                "path_type": "hardlink",
+                "sha256": "0f72a1bd586fccdaa1fdf9061eea71c434c972492ad7c9db3adcc02f6cebaf75",
+                "sha256_in_prefix": "0f72a1bd586fccdaa1fdf9061eea71c434c972492ad7c9db3adcc02f6cebaf75",
+                "size_in_bytes": 1353
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/nadp.py",
+                "path_type": "hardlink",
+                "sha256": "cb210780a4fce994b8b11e2c52526e3afed00c9dd112f834622b596692751942",
+                "sha256_in_prefix": "cb210780a4fce994b8b11e2c52526e3afed00c9dd112f834622b596692751942",
+                "size_in_bytes": 5282
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/nldi.py",
+                "path_type": "hardlink",
+                "sha256": "05d888ec3f39e26145f3480456524d48656f778571a63adca6017b19aed27a1a",
+                "sha256_in_prefix": "05d888ec3f39e26145f3480456524d48656f778571a63adca6017b19aed27a1a",
+                "size_in_bytes": 18467
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/nwis.py",
+                "path_type": "hardlink",
+                "sha256": "26824b1e4c4acab57ea52359dcc09f5a9a82d836037849f8b3951ed0f704d06f",
+                "sha256_in_prefix": "26824b1e4c4acab57ea52359dcc09f5a9a82d836037849f8b3951ed0f704d06f",
+                "size_in_bytes": 47593
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/py.typed",
+                "path_type": "hardlink",
+                "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+                "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+                "size_in_bytes": 1
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/samples.py",
+                "path_type": "hardlink",
+                "sha256": "db017df9a5682acfd6026b38474b56601cb5d48b2851f850ad03ad68965bac40",
+                "sha256_in_prefix": "db017df9a5682acfd6026b38474b56601cb5d48b2851f850ad03ad68965bac40",
+                "size_in_bytes": 11479
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/streamstats.py",
+                "path_type": "hardlink",
+                "sha256": "eee5797bcff9b9e60abfac468634e11da9e37f059defd8ae36e374e4763918a1",
+                "sha256_in_prefix": "eee5797bcff9b9e60abfac468634e11da9e37f059defd8ae36e374e4763918a1",
+                "size_in_bytes": 4922
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/utils.py",
+                "path_type": "hardlink",
+                "sha256": "aea01a25201930dbea05856db683c26433895881b0013ab9e233be1761d91402",
+                "sha256_in_prefix": "aea01a25201930dbea05856db683c26433895881b0013ab9e233be1761d91402",
+                "size_in_bytes": 6741
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "e5981e1dc3900200298ea45208bc1fa5817d467c22baed12f6346d6d597d081e",
+                "sha256_in_prefix": "e5981e1dc3900200298ea45208bc1fa5817d467c22baed12f6346d6d597d081e",
+                "size_in_bytes": 988
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/api.py",
+                "path_type": "hardlink",
+                "sha256": "85587e2676dee6c5938c71791ead15c5dd7ee27efb691ab3e2587809bbf23015",
+                "sha256_in_prefix": "85587e2676dee6c5938c71791ead15c5dd7ee27efb691ab3e2587809bbf23015",
+                "size_in_bytes": 92874
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/types.py",
+                "path_type": "hardlink",
+                "sha256": "9123113708c34672c57228568aed5c7c22d5ead7fc5975464d7c41d76c65c9d5",
+                "sha256_in_prefix": "9123113708c34672c57228568aed5c7c22d5ead7fc5975464d7c41d76c65c9d5",
+                "size_in_bytes": 1549
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/utils.py",
+                "path_type": "hardlink",
+                "sha256": "b22a4adab715664fef94a9c145edf6f38a2cb36eef86b1f3663eb33f431cfd33",
+                "sha256_in_prefix": "b22a4adab715664fef94a9c145edf6f38a2cb36eef86b1f3663eb33f431cfd33",
+                "size_in_bytes": 28334
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterwatch.py",
+                "path_type": "hardlink",
+                "sha256": "3ef095204024972f5e5735a7c4757106498fc1bbb875ab0aed51a55ecafea0bd",
+                "sha256_in_prefix": "3ef095204024972f5e5735a7c4757106498fc1bbb875ab0aed51a55ecafea0bd",
+                "size_in_bytes": 2458
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/wqp.py",
+                "path_type": "hardlink",
+                "sha256": "c9be46025bd255c2b2cbed28adc6754d8cd0648f881f48376f4b31456f3d7c0d",
+                "sha256_in_prefix": "c9be46025bd255c2b2cbed28adc6754d8cd0648f881f48376f4b31456f3d7c0d",
+                "size_in_bytes": 23246
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/_version.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/states.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/codes/__pycache__/timezones.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/nadp.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/nldi.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/nwis.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/samples.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/streamstats.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/utils.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/api.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/types.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/waterdata/__pycache__/utils.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/waterwatch.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/dataretrieval/__pycache__/wqp.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "dataretrieval",
+    "sha256": "51fe5d4697a203248c5661775dab399230d346c47b5d31777b16c4116c60a612",
+    "size": 55416,
+    "subdir": "noarch",
+    "timestamp": 1769698354,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/dataretrieval-1.1.2-pyhd8ed1ab_0.conda",
+    "version": "1.1.2"
+}

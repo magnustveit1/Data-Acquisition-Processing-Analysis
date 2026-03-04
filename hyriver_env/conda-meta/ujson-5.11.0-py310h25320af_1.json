@@ -1,0 +1,119 @@
+{
+    "arch": "x86_64",
+    "build": "py310h25320af_1",
+    "build_number": 1,
+    "build_string": "py310h25320af_1",
+    "channel": "conda-forge",
+    "depends": [
+        "python",
+        "__glibc >=2.17,<3.0.a0",
+        "python_abi 3.10.* *_cp310",
+        "libgcc >=14",
+        "libstdcxx >=14"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/ujson-5.11.0-py310h25320af_1",
+    "files": [
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/licenses/LICENSE.txt",
+        "lib/python3.10/site-packages/ujson-5.11.0.dist-info/top_level.txt",
+        "lib/python3.10/site-packages/ujson-stubs/__init__.pyi",
+        "lib/python3.10/site-packages/ujson.cpython-310-x86_64-linux-gnu.so"
+    ],
+    "fn": "ujson-5.11.0-py310h25320af_1.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/ujson-5.11.0-py310h25320af_1",
+        "type": 1
+    },
+    "md5": "8a5288d0d33fcd77225da56ff0bb58c8",
+    "name": "ujson",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/ujson-5.11.0-py310h25320af_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+                "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+                "size_in_bytes": 6
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "38558c005027302c850b2dcacfab35f1c9755fb71d2721cc863539896593b189",
+                "sha256_in_prefix": "38558c005027302c850b2dcacfab35f1c9755fb71d2721cc863539896593b189",
+                "size_in_bytes": 9372
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "a7f0c6e65d8251b8f9d43406bc5471eab8837a998053d8b74a52daf80127ffe2",
+                "sha256_in_prefix": "a7f0c6e65d8251b8f9d43406bc5471eab8837a998053d8b74a52daf80127ffe2",
+                "size_in_bytes": 848
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "d3e1bbc281b82e0bad718cd418908e60582887be3df85b5f85231e20f2d5192d",
+                "sha256_in_prefix": "d3e1bbc281b82e0bad718cd418908e60582887be3df85b5f85231e20f2d5192d",
+                "size_in_bytes": 104
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "f5fa0ec8e02f91fc1c51b8a34d3073ab17129d185324d823e629bdf788ffc5a4",
+                "sha256_in_prefix": "f5fa0ec8e02f91fc1c51b8a34d3073ab17129d185324d823e629bdf788ffc5a4",
+                "size_in_bytes": 116
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/licenses/LICENSE.txt",
+                "path_type": "hardlink",
+                "sha256": "36866344f0a486541bd9800f1a407a056c0c214a82c658f059694daf3dc394d2",
+                "sha256_in_prefix": "36866344f0a486541bd9800f1a407a056c0c214a82c658f059694daf3dc394d2",
+                "size_in_bytes": 5975
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-5.11.0.dist-info/top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "d32ec73829119a1c41a5e22040d8a17e3332ad11a2f52ed99331196cf437630f",
+                "sha256_in_prefix": "d32ec73829119a1c41a5e22040d8a17e3332ad11a2f52ed99331196cf437630f",
+                "size_in_bytes": 18
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson-stubs/__init__.pyi",
+                "path_type": "hardlink",
+                "sha256": "d4253dfb70ae13c16b7bc406849d937f541ed7936f5789d0280bf6b3e9ec585b",
+                "sha256_in_prefix": "d4253dfb70ae13c16b7bc406849d937f541ed7936f5789d0280bf6b3e9ec585b",
+                "size_in_bytes": 1606
+            },
+            {
+                "_path": "lib/python3.10/site-packages/ujson.cpython-310-x86_64-linux-gnu.so",
+                "path_type": "hardlink",
+                "sha256": "2b2673efe3b40cf3da41ba7aa8fa576cbaf419268f3ec7051584ae2acd1fd1b0",
+                "sha256_in_prefix": "2b2673efe3b40cf3da41ba7aa8fa576cbaf419268f3ec7051584ae2acd1fd1b0",
+                "size_in_bytes": 100712
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "38a7e66ed6860bf14f27ca4217bcbcd1903116d92c91ca6d95da8a3bc7b006f9",
+    "size": 59529,
+    "subdir": "linux-64",
+    "timestamp": 1756674016,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/ujson-5.11.0-py310h25320af_1.conda",
+    "version": "5.11.0"
+}
