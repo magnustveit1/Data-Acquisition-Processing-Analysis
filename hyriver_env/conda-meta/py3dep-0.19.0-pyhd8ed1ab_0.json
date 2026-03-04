@@ -1,0 +1,211 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "scipy",
+        "cytoolz",
+        "pyogrio",
+        "python >=3.9",
+        "numpy >=1.21",
+        "shapely >=2",
+        "rasterio >=1.2",
+        "rioxarray >=0.11",
+        "click >=0.7",
+        "geopandas-base >=1",
+        "xarray >=2023.01",
+        "pygeoutils >=0.19,<0.20",
+        "async-retriever >=0.19,<0.20",
+        "pygeoogc >=0.19,<0.20"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/py3dep-0.19.0-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/entry_points.txt",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/py3dep/__init__.py",
+        "lib/python3.10/site-packages/py3dep/cli.py",
+        "lib/python3.10/site-packages/py3dep/exceptions.py",
+        "lib/python3.10/site-packages/py3dep/geoops.py",
+        "lib/python3.10/site-packages/py3dep/print_versions.py",
+        "lib/python3.10/site-packages/py3dep/py.typed",
+        "lib/python3.10/site-packages/py3dep/py3dep.py",
+        "lib/python3.10/site-packages/py3dep/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/py3dep/__pycache__/cli.cpython-310.pyc",
+        "lib/python3.10/site-packages/py3dep/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/py3dep/__pycache__/geoops.cpython-310.pyc",
+        "lib/python3.10/site-packages/py3dep/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/py3dep/__pycache__/py3dep.cpython-310.pyc",
+        "bin/py3dep"
+    ],
+    "fn": "py3dep-0.19.0-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/py3dep-0.19.0-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "dda66b26e02cc022b7cec857fa092f25",
+    "name": "py3dep",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/py3dep-0.19.0-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "98a1a8916342678a4c21133933bd5a75f8efa78ae2b658ba65483ab401af194e",
+                "sha256_in_prefix": "98a1a8916342678a4c21133933bd5a75f8efa78ae2b658ba65483ab401af194e",
+                "size_in_bytes": 21371
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "2a79968c5b7e1a549eadd48f7f9287cf39e8e12030ce48ce542849f54760ac85",
+                "sha256_in_prefix": "2a79968c5b7e1a549eadd48f7f9287cf39e8e12030ce48ce542849f54760ac85",
+                "size_in_bytes": 1653
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "9a3ba79c187a5da5c491765b73d5ebb5230bdbac4d622c6c04638a14b36b332d",
+                "sha256_in_prefix": "9a3ba79c187a5da5c491765b73d5ebb5230bdbac4d622c6c04638a14b36b332d",
+                "size_in_bytes": 102
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/entry_points.txt",
+                "path_type": "hardlink",
+                "sha256": "08041fb415b387fda635ec3f47b6b3394ba51b402d667b3acaa2689fb63b48bc",
+                "sha256_in_prefix": "08041fb415b387fda635ec3f47b6b3394ba51b402d667b3acaa2689fb63b48bc",
+                "size_in_bytes": 42
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "sha256_in_prefix": "1409de6221d34d9b8402d5fb02f045169e7f41eb283121f471402dded8ab5584",
+                "size_in_bytes": 157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep-0.19.0.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "f91e9d0c104750bb57fb66ccc381e5c77c28cc526959c176024353b54921b31d",
+                "sha256_in_prefix": "f91e9d0c104750bb57fb66ccc381e5c77c28cc526959c176024353b54921b31d",
+                "size_in_bytes": 932
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/cli.py",
+                "path_type": "hardlink",
+                "sha256": "fd50990f6fc7728b33412a93a15bfce542f68c8b529634d6e93d1369a8de5adc",
+                "sha256_in_prefix": "fd50990f6fc7728b33412a93a15bfce542f68c8b529634d6e93d1369a8de5adc",
+                "size_in_bytes": 4504
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "b5335960d709827191756350c8ff8a176077355c7671b42f40cfe8ed28022081",
+                "sha256_in_prefix": "b5335960d709827191756350c8ff8a176077355c7671b42f40cfe8ed28022081",
+                "size_in_bytes": 2674
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/geoops.py",
+                "path_type": "hardlink",
+                "sha256": "06229284b7ffef05c4370075a2d961ae1b8bbf8baae2bb266a5f2fc2f03414d5",
+                "sha256_in_prefix": "06229284b7ffef05c4370075a2d961ae1b8bbf8baae2bb266a5f2fc2f03414d5",
+                "size_in_bytes": 9664
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "86f231408c4898f2982194abd927fdd6df02f8c6da69e22a0f8e510f620fcac7",
+                "sha256_in_prefix": "86f231408c4898f2982194abd927fdd6df02f8c6da69e22a0f8e510f620fcac7",
+                "size_in_bytes": 4042
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/py3dep.py",
+                "path_type": "hardlink",
+                "sha256": "dd325038a814ff34b8c5bbdc01df51c8c3825f88de65c5f56cacb1b8ab191d5f",
+                "sha256_in_prefix": "dd325038a814ff34b8c5bbdc01df51c8c3825f88de65c5f56cacb1b8ab191d5f",
+                "size_in_bytes": 25841
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/cli.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/geoops.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/py3dep/__pycache__/py3dep.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "bin/py3dep",
+                "path_type": "unix_python_entry_point"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "py3dep",
+    "sha256": "63f273ee8d8ef470ae1c74f2804ad8c3712d1a0551382acdfea6468c41c75c82",
+    "size": 28148,
+    "subdir": "noarch",
+    "timestamp": 1737173936,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/py3dep-0.19.0-pyhd8ed1ab_0.conda",
+    "version": "0.19.0"
+}

@@ -1,0 +1,211 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "requests",
+        "joblib",
+        "urllib3",
+        "defusedxml",
+        "cytoolz",
+        "yarl",
+        "multidict",
+        "python >=3.9",
+        "shapely >=2",
+        "url-normalize >=1.4",
+        "pyproj >=3.0.1",
+        "requests-cache >=0.9.6",
+        "owslib >=0.27.2",
+        "async-retriever >=0.19.3,<0.20"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeoogc-0.19.4-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/METADATA",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/RECORD",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/WHEEL",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/pygeoogc/__init__.py",
+        "lib/python3.10/site-packages/pygeoogc/cache_keys.py",
+        "lib/python3.10/site-packages/pygeoogc/core.py",
+        "lib/python3.10/site-packages/pygeoogc/exceptions.py",
+        "lib/python3.10/site-packages/pygeoogc/print_versions.py",
+        "lib/python3.10/site-packages/pygeoogc/py.typed",
+        "lib/python3.10/site-packages/pygeoogc/pygeoogc.py",
+        "lib/python3.10/site-packages/pygeoogc/utils.py",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/cache_keys.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/core.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/pygeoogc.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeoogc/__pycache__/utils.cpython-310.pyc"
+    ],
+    "fn": "pygeoogc-0.19.4-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeoogc-0.19.4-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "c91e76815ddbf05551cac7ccdf38c25a",
+    "name": "pygeoogc",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeoogc-0.19.4-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "33a279f672a993c2929d329c5d5877dcbc90f644f565bc803560fdad3f7b82f1",
+                "sha256_in_prefix": "33a279f672a993c2929d329c5d5877dcbc90f644f565bc803560fdad3f7b82f1",
+                "size_in_bytes": 18154
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "37d803861e921d25c32d99030a072903567a67d6d0c7b1f5709f06cf5009dd61",
+                "sha256_in_prefix": "37d803861e921d25c32d99030a072903567a67d6d0c7b1f5709f06cf5009dd61",
+                "size_in_bytes": 1660
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "17970ed524c0960fe649f36446d3bb1ae8924d768c00430fad86563d69323c61",
+                "sha256_in_prefix": "17970ed524c0960fe649f36446d3bb1ae8924d768c00430fad86563d69323c61",
+                "size_in_bytes": 104
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "09debd08b8bfb12369f74955530da4c06270f9a221b583d46920682e624be45d",
+                "sha256_in_prefix": "09debd08b8bfb12369f74955530da4c06270f9a221b583d46920682e624be45d",
+                "size_in_bytes": 251
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc-0.19.4.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "a5076d13edc12a8bb213ce8e37aae236e93edc0dfba52eb50cfee094b8fddaa0",
+                "sha256_in_prefix": "a5076d13edc12a8bb213ce8e37aae236e93edc0dfba52eb50cfee094b8fddaa0",
+                "size_in_bytes": 1066
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/cache_keys.py",
+                "path_type": "hardlink",
+                "sha256": "cb43b433c8aef2a45303d8bc0a41830fcdd1be9ec215f334bc0c23e0ae6a0e0e",
+                "sha256_in_prefix": "cb43b433c8aef2a45303d8bc0a41830fcdd1be9ec215f334bc0c23e0ae6a0e0e",
+                "size_in_bytes": 2644
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/core.py",
+                "path_type": "hardlink",
+                "sha256": "b0990727012aa8e96c3c3bf71817d6c2b94bfb790d3f79e0a077c918afc68353",
+                "sha256_in_prefix": "b0990727012aa8e96c3c3bf71817d6c2b94bfb790d3f79e0a077c918afc68353",
+                "size_in_bytes": 25141
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "00a2e2c3742f3d97008c7e50659c31a58d6b0adf7bc8faf5cc27df3c5cfd7b20",
+                "sha256_in_prefix": "00a2e2c3742f3d97008c7e50659c31a58d6b0adf7bc8faf5cc27df3c5cfd7b20",
+                "size_in_bytes": 2111
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "sha256_in_prefix": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "size_in_bytes": 4298
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/pygeoogc.py",
+                "path_type": "hardlink",
+                "sha256": "260923ce4e419dc0ab8b6351c7ae6eda5e954439b8ed947856949dbe7f817d71",
+                "sha256_in_prefix": "260923ce4e419dc0ab8b6351c7ae6eda5e954439b8ed947856949dbe7f817d71",
+                "size_in_bytes": 33881
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/utils.py",
+                "path_type": "hardlink",
+                "sha256": "0b500349ceac60dea6324c37ee24ef0e538f0f41605b8c396a7d05f46a07e956",
+                "sha256_in_prefix": "0b500349ceac60dea6324c37ee24ef0e538f0f41605b8c396a7d05f46a07e956",
+                "size_in_bytes": 29912
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/cache_keys.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/core.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/pygeoogc.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeoogc/__pycache__/utils.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "6980304ca23f8d2b4e154a6b4736e3b3bff813a9f375e5dd24ac1af6c2ec138a",
+    "size": 35169,
+    "subdir": "noarch",
+    "timestamp": 1748044063,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pygeoogc-0.19.4-pyhd8ed1ab_0.conda",
+    "version": "0.19.4"
+}

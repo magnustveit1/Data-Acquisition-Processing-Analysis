@@ -1,0 +1,171 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_1",
+    "build_number": 1,
+    "build_string": "pyhd8ed1ab_1",
+    "channel": "conda-forge",
+    "depends": [
+        "python >=3.9"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/affine-2.4.0-pyhd8ed1ab_1",
+    "files": [
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/LICENSE.txt",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/affine-2.4.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/affine/__init__.py",
+        "lib/python3.10/site-packages/affine/tests/__init__.py",
+        "lib/python3.10/site-packages/affine/tests/test_pickle.py",
+        "lib/python3.10/site-packages/affine/tests/test_rotation.py",
+        "lib/python3.10/site-packages/affine/tests/test_serialize.py",
+        "lib/python3.10/site-packages/affine/tests/test_transform.py",
+        "lib/python3.10/site-packages/affine/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/affine/tests/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/affine/tests/__pycache__/test_pickle.cpython-310.pyc",
+        "lib/python3.10/site-packages/affine/tests/__pycache__/test_rotation.cpython-310.pyc",
+        "lib/python3.10/site-packages/affine/tests/__pycache__/test_serialize.cpython-310.pyc",
+        "lib/python3.10/site-packages/affine/tests/__pycache__/test_transform.cpython-310.pyc"
+    ],
+    "fn": "affine-2.4.0-pyhd8ed1ab_1.conda",
+    "license": "BSD-3-Clause",
+    "license_family": "BSD",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/affine-2.4.0-pyhd8ed1ab_1",
+        "type": 1
+    },
+    "md5": "8c4061f499edec6b8ac7000f6d586829",
+    "name": "affine",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/affine-2.4.0-pyhd8ed1ab_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/LICENSE.txt",
+                "path_type": "hardlink",
+                "sha256": "fc3636b54ff4072cf4b013ed9893c171ed25f88dae2b32722050499c1878cd6e",
+                "sha256_in_prefix": "fc3636b54ff4072cf4b013ed9893c171ed25f88dae2b32722050499c1878cd6e",
+                "size_in_bytes": 1517
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "9b1bb29a2f0df494e80526e6792272bd6205c4167fdddd6ca4da9378436d0bbc",
+                "sha256_in_prefix": "9b1bb29a2f0df494e80526e6792272bd6205c4167fdddd6ca4da9378436d0bbc",
+                "size_in_bytes": 3959
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "52f0bfe6d713721ee72c36085750c8928793c222786a58b378cf7df4a250dfcf",
+                "sha256_in_prefix": "52f0bfe6d713721ee72c36085750c8928793c222786a58b378cf7df4a250dfcf",
+                "size_in_bytes": 1397
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+                "sha256_in_prefix": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+                "size_in_bytes": 82
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine-2.4.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "5521f01bac7056ab2bbcd1dcca4284e0d7ca5371e8be8dcc60714036479c354b",
+                "sha256_in_prefix": "5521f01bac7056ab2bbcd1dcca4284e0d7ca5371e8be8dcc60714036479c354b",
+                "size_in_bytes": 102
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "f9bfab6e0ddb3b6140294e65f736fd0f6f70ac1f765bebe7a81f518256fb338b",
+                "sha256_in_prefix": "f9bfab6e0ddb3b6140294e65f736fd0f6f70ac1f765bebe7a81f518256fb338b",
+                "size_in_bytes": 20157
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "e843bc11735ec8b1ea101437754e37ae0e3f4899b0cfa748087b65feeb8f13b2",
+                "sha256_in_prefix": "e843bc11735ec8b1ea101437754e37ae0e3f4899b0cfa748087b65feeb8f13b2",
+                "size_in_bytes": 27
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/test_pickle.py",
+                "path_type": "hardlink",
+                "sha256": "9bcb1fdaceebbe8251280ed2ba394e6ac70ffbd30efbf15869dc7e6412b88b73",
+                "sha256_in_prefix": "9bcb1fdaceebbe8251280ed2ba394e6ac70ffbd30efbf15869dc7e6412b88b73",
+                "size_in_bytes": 744
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/test_rotation.py",
+                "path_type": "hardlink",
+                "sha256": "91900ba9aaeb3024601a7ad15867ce75b50c065a4161d20bed5da229e80135eb",
+                "sha256_in_prefix": "91900ba9aaeb3024601a7ad15867ce75b50c065a4161d20bed5da229e80135eb",
+                "size_in_bytes": 1337
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/test_serialize.py",
+                "path_type": "hardlink",
+                "sha256": "46358e01543e66af0d9654dd351012d568e2b3c29bdac373752f660af53acba8",
+                "sha256_in_prefix": "46358e01543e66af0d9654dd351012d568e2b3c29bdac373752f660af53acba8",
+                "size_in_bytes": 199
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/test_transform.py",
+                "path_type": "hardlink",
+                "sha256": "5c036a0afd123cf0b0ab87415db65564424901a7fac272a4222c6bb18f6a48a8",
+                "sha256_in_prefix": "5c036a0afd123cf0b0ab87415db65564424901a7fac272a4222c6bb18f6a48a8",
+                "size_in_bytes": 18859
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__pycache__/test_pickle.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__pycache__/test_rotation.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__pycache__/test_serialize.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/affine/tests/__pycache__/test_transform.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "0deeaf0c001d5543719db9b2686bc1920c86c7e142f9bec74f35e1ce611b1fc2",
+    "size": 19164,
+    "subdir": "noarch",
+    "timestamp": 1733762153,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/affine-2.4.0-pyhd8ed1ab_1.conda",
+    "version": "2.4.0"
+}

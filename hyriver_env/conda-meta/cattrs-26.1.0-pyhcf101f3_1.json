@@ -1,0 +1,758 @@
+{
+    "build": "pyhcf101f3_1",
+    "build_number": 1,
+    "build_string": "pyhcf101f3_1",
+    "channel": "conda-forge",
+    "depends": [
+        "python",
+        "python >=3.10",
+        "typing_extensions >=4.14.0",
+        "exceptiongroup >=1.1.1",
+        "attrs >=25.4.0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/cattrs-26.1.0-pyhcf101f3_1",
+    "files": [
+        "lib/python3.10/site-packages/cattr/__init__.py",
+        "lib/python3.10/site-packages/cattr/converters.py",
+        "lib/python3.10/site-packages/cattr/disambiguators.py",
+        "lib/python3.10/site-packages/cattr/dispatch.py",
+        "lib/python3.10/site-packages/cattr/errors.py",
+        "lib/python3.10/site-packages/cattr/gen.py",
+        "lib/python3.10/site-packages/cattr/preconf/__init__.py",
+        "lib/python3.10/site-packages/cattr/preconf/bson.py",
+        "lib/python3.10/site-packages/cattr/preconf/json.py",
+        "lib/python3.10/site-packages/cattr/preconf/msgpack.py",
+        "lib/python3.10/site-packages/cattr/preconf/orjson.py",
+        "lib/python3.10/site-packages/cattr/preconf/pyyaml.py",
+        "lib/python3.10/site-packages/cattr/preconf/tomlkit.py",
+        "lib/python3.10/site-packages/cattr/preconf/ujson.py",
+        "lib/python3.10/site-packages/cattr/py.typed",
+        "lib/python3.10/site-packages/cattrs/__init__.py",
+        "lib/python3.10/site-packages/cattrs/_compat.py",
+        "lib/python3.10/site-packages/cattrs/_generics.py",
+        "lib/python3.10/site-packages/cattrs/cols.py",
+        "lib/python3.10/site-packages/cattrs/converters.py",
+        "lib/python3.10/site-packages/cattrs/disambiguators.py",
+        "lib/python3.10/site-packages/cattrs/dispatch.py",
+        "lib/python3.10/site-packages/cattrs/enums.py",
+        "lib/python3.10/site-packages/cattrs/errors.py",
+        "lib/python3.10/site-packages/cattrs/fns.py",
+        "lib/python3.10/site-packages/cattrs/gen/__init__.py",
+        "lib/python3.10/site-packages/cattrs/gen/_consts.py",
+        "lib/python3.10/site-packages/cattrs/gen/_generics.py",
+        "lib/python3.10/site-packages/cattrs/gen/_lc.py",
+        "lib/python3.10/site-packages/cattrs/gen/_shared.py",
+        "lib/python3.10/site-packages/cattrs/gen/typeddicts.py",
+        "lib/python3.10/site-packages/cattrs/literals.py",
+        "lib/python3.10/site-packages/cattrs/preconf/__init__.py",
+        "lib/python3.10/site-packages/cattrs/preconf/bson.py",
+        "lib/python3.10/site-packages/cattrs/preconf/cbor2.py",
+        "lib/python3.10/site-packages/cattrs/preconf/json.py",
+        "lib/python3.10/site-packages/cattrs/preconf/msgpack.py",
+        "lib/python3.10/site-packages/cattrs/preconf/msgspec.py",
+        "lib/python3.10/site-packages/cattrs/preconf/orjson.py",
+        "lib/python3.10/site-packages/cattrs/preconf/pyyaml.py",
+        "lib/python3.10/site-packages/cattrs/preconf/tomlkit.py",
+        "lib/python3.10/site-packages/cattrs/preconf/tomllib.py",
+        "lib/python3.10/site-packages/cattrs/preconf/ujson.py",
+        "lib/python3.10/site-packages/cattrs/py.typed",
+        "lib/python3.10/site-packages/cattrs/strategies/__init__.py",
+        "lib/python3.10/site-packages/cattrs/strategies/_class_methods.py",
+        "lib/python3.10/site-packages/cattrs/strategies/_subclasses.py",
+        "lib/python3.10/site-packages/cattrs/strategies/_unions.py",
+        "lib/python3.10/site-packages/cattrs/subclasses.py",
+        "lib/python3.10/site-packages/cattrs/typealiases.py",
+        "lib/python3.10/site-packages/cattrs/types.py",
+        "lib/python3.10/site-packages/cattrs/v.py",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/cattr/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/__pycache__/converters.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/__pycache__/disambiguators.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/__pycache__/dispatch.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/__pycache__/errors.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/__pycache__/gen.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/bson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/json.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/msgpack.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/orjson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/pyyaml.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/tomlkit.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattr/preconf/__pycache__/ujson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/_compat.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/_generics.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/cols.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/converters.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/disambiguators.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/dispatch.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/enums.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/errors.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/fns.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/_consts.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/_generics.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/_lc.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/_shared.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/gen/__pycache__/typeddicts.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/literals.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/bson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/cbor2.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/json.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/msgpack.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/msgspec.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/orjson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/pyyaml.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/tomlkit.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/tomllib.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/preconf/__pycache__/ujson.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/strategies/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_class_methods.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_subclasses.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_unions.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/subclasses.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/typealiases.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/types.cpython-310.pyc",
+        "lib/python3.10/site-packages/cattrs/__pycache__/v.cpython-310.pyc"
+    ],
+    "fn": "cattrs-26.1.0-pyhcf101f3_1.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/cattrs-26.1.0-pyhcf101f3_1",
+        "type": 1
+    },
+    "md5": "eb57a77657c275d8d0b3542b070f484c",
+    "name": "cattrs",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/cattrs-26.1.0-pyhcf101f3_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "6d8ae6c136127580bfbadd715b7d55ee6c615c194940ab3c1040a0b5406002e7",
+                "sha256_in_prefix": "6d8ae6c136127580bfbadd715b7d55ee6c615c194940ab3c1040a0b5406002e7",
+                "size_in_bytes": 906
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/converters.py",
+                "path_type": "hardlink",
+                "sha256": "ad0858e09f2bed04d98795880ae15ee0658ed6fd034b70e043daf9ebdcddea38",
+                "sha256_in_prefix": "ad0858e09f2bed04d98795880ae15ee0658ed6fd034b70e043daf9ebdcddea38",
+                "size_in_bytes": 192
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/disambiguators.py",
+                "path_type": "hardlink",
+                "sha256": "ba00f57ead59e71d691aee4fd65333713f88122d6aec87d02481c476683adaf3",
+                "sha256_in_prefix": "ba00f57ead59e71d691aee4fd65333713f88122d6aec87d02481c476683adaf3",
+                "size_in_bytes": 103
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/dispatch.py",
+                "path_type": "hardlink",
+                "sha256": "b9510e807591f479f9b66fb0230f9b0dc72aaf1241c958bcc9129a632bcbebb9",
+                "sha256_in_prefix": "b9510e807591f479f9b66fb0230f9b0dc72aaf1241c958bcc9129a632bcbebb9",
+                "size_in_bytes": 125
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/errors.py",
+                "path_type": "hardlink",
+                "sha256": "578461a0239bc06ae568cde8ca7d47fc5631191f22001f5d1b937114360ce78f",
+                "sha256_in_prefix": "578461a0239bc06ae568cde8ca7d47fc5631191f22001f5d1b937114360ce78f",
+                "size_in_bytes": 343
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/gen.py",
+                "path_type": "hardlink",
+                "sha256": "856c8aa19fddd83dfa273fe7a6ca721b0f2cf695ad500ebdb177f4477b8ebe03",
+                "sha256_in_prefix": "856c8aa19fddd83dfa273fe7a6ca721b0f2cf695ad500ebdb177f4477b8ebe03",
+                "size_in_bytes": 597
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "36a3c4eee8557dc3fe3e0824529b1b7c0bad328f281e372807572f8e02dfb7eb",
+                "sha256_in_prefix": "36a3c4eee8557dc3fe3e0824529b1b7c0bad328f281e372807572f8e02dfb7eb",
+                "size_in_bytes": 78
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/bson.py",
+                "path_type": "hardlink",
+                "sha256": "067e2127169ceceb611a0fc24782c23de069fdfcf8931dd09e2055399860b86b",
+                "sha256_in_prefix": "067e2127169ceceb611a0fc24782c23de069fdfcf8931dd09e2055399860b86b",
+                "size_in_bytes": 195
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/json.py",
+                "path_type": "hardlink",
+                "sha256": "2e9a98b8ede878f0f16d0b4a14a07449aa1e022dd9fda808832367d55412215a",
+                "sha256_in_prefix": "2e9a98b8ede878f0f16d0b4a14a07449aa1e022dd9fda808832367d55412215a",
+                "size_in_bytes": 206
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/msgpack.py",
+                "path_type": "hardlink",
+                "sha256": "a7227d2fd7a43656742101db27d032fdf8bf34ea98e7fac4feaf949c3f78f913",
+                "sha256_in_prefix": "a7227d2fd7a43656742101db27d032fdf8bf34ea98e7fac4feaf949c3f78f913",
+                "size_in_bytes": 207
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/orjson.py",
+                "path_type": "hardlink",
+                "sha256": "01d87eedcb31e1ea828f1db6ce2a4c1604a50d76d1e79e30be034711bf10e493",
+                "sha256_in_prefix": "01d87eedcb31e1ea828f1db6ce2a4c1604a50d76d1e79e30be034711bf10e493",
+                "size_in_bytes": 203
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/pyyaml.py",
+                "path_type": "hardlink",
+                "sha256": "172e346de8e3a7bbaa8282e14c0fe9e30658174b856a0b876d42bdcecf4ba02d",
+                "sha256_in_prefix": "172e346de8e3a7bbaa8282e14c0fe9e30658174b856a0b876d42bdcecf4ba02d",
+                "size_in_bytes": 203
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/tomlkit.py",
+                "path_type": "hardlink",
+                "sha256": "fe000327f518a63dc488d5c662301f48e91ca052242e96153857cb12a05f2094",
+                "sha256_in_prefix": "fe000327f518a63dc488d5c662301f48e91ca052242e96153857cb12a05f2094",
+                "size_in_bytes": 207
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/ujson.py",
+                "path_type": "hardlink",
+                "sha256": "23311aed051c60e69250c88b42c1445899c18a19a638b85e86c33ee5c3d8f4d2",
+                "sha256_in_prefix": "23311aed051c60e69250c88b42c1445899c18a19a638b85e86c33ee5c3d8f4d2",
+                "size_in_bytes": 199
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "5218857717fcd600ae04103a16eb68135a0eced87317f3e401da04d8056c948a",
+                "sha256_in_prefix": "5218857717fcd600ae04103a16eb68135a0eced87317f3e401da04d8056c948a",
+                "size_in_bytes": 1901
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/_compat.py",
+                "path_type": "hardlink",
+                "sha256": "e5d3a90fa3bccd455972b79a279c12b7d9fe36eb789fbf626eb91ae5377a97ce",
+                "sha256_in_prefix": "e5d3a90fa3bccd455972b79a279c12b7d9fe36eb789fbf626eb91ae5377a97ce",
+                "size_in_bytes": 12251
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/_generics.py",
+                "path_type": "hardlink",
+                "sha256": "111628fe45fe67a522c0e71823758bae51cee986bae9cff0869928e9eb3951e2",
+                "sha256_in_prefix": "111628fe45fe67a522c0e71823758bae51cee986bae9cff0869928e9eb3951e2",
+                "size_in_bytes": 966
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/cols.py",
+                "path_type": "hardlink",
+                "sha256": "f8a9858a4bd9bbb70bfe0ebccadc7401de9d6a77e3558e51cb7c355d1b536969",
+                "sha256_in_prefix": "f8a9858a4bd9bbb70bfe0ebccadc7401de9d6a77e3558e51cb7c355d1b536969",
+                "size_in_bytes": 10336
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/converters.py",
+                "path_type": "hardlink",
+                "sha256": "04fa523ee84cba1433daa165fce01e219f02ac8f7903c832ea486ebd4df96cdf",
+                "sha256_in_prefix": "04fa523ee84cba1433daa165fce01e219f02ac8f7903c832ea486ebd4df96cdf",
+                "size_in_bytes": 55322
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/disambiguators.py",
+                "path_type": "hardlink",
+                "sha256": "bb2743e905cfbded7ed1d63fde6fc5a323aaa30bd3bc4297ceb75bfb9c6444f1",
+                "sha256_in_prefix": "bb2743e905cfbded7ed1d63fde6fc5a323aaa30bd3bc4297ceb75bfb9c6444f1",
+                "size_in_bytes": 6863
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/dispatch.py",
+                "path_type": "hardlink",
+                "sha256": "f6a03ea66b0fbe0acce8c18ff04bf68153fa60bdab5efa0195afc2d15807c50d",
+                "sha256_in_prefix": "f6a03ea66b0fbe0acce8c18ff04bf68153fa60bdab5efa0195afc2d15807c50d",
+                "size_in_bytes": 6780
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/enums.py",
+                "path_type": "hardlink",
+                "sha256": "9e80037705cff534a9c88ca313a591da221b18f9a2822aef02b280a075899832",
+                "sha256_in_prefix": "9e80037705cff534a9c88ca313a591da221b18f9a2822aef02b280a075899832",
+                "size_in_bytes": 1130
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/errors.py",
+                "path_type": "hardlink",
+                "sha256": "08b5ba51ebf7d5c3b1a3a71615bd3e83e1406d8243da6626479c53c432158c3c",
+                "sha256_in_prefix": "08b5ba51ebf7d5c3b1a3a71615bd3e83e1406d8243da6626479c53c432158c3c",
+                "size_in_bytes": 4344
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/fns.py",
+                "path_type": "hardlink",
+                "sha256": "cf9cf5559399bfcb792f01bc70133fb485e0fbf3e54143b265bf7022b5cdaa5c",
+                "sha256_in_prefix": "cf9cf5559399bfcb792f01bc70133fb485e0fbf3e54143b265bf7022b5cdaa5c",
+                "size_in_bytes": 626
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "c2b9a2f3b8c611f99671b6cd9195e4d46aa7f4f2f05deaca50326809004245e9",
+                "sha256_in_prefix": "c2b9a2f3b8c611f99671b6cd9195e4d46aa7f4f2f05deaca50326809004245e9",
+                "size_in_bytes": 42553
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/_consts.py",
+                "path_type": "hardlink",
+                "sha256": "6704ff9b62774bba7e52396da5b0355ad7d064b363f4a866158080bfa665fa0d",
+                "sha256_in_prefix": "6704ff9b62774bba7e52396da5b0355ad7d064b363f4a866158080bfa665fa0d",
+                "size_in_bytes": 511
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/_generics.py",
+                "path_type": "hardlink",
+                "sha256": "fc3c97086aa5d902311a102fdff07586c8bcd2e3caf0f84ada18596bde583a5a",
+                "sha256_in_prefix": "fc3c97086aa5d902311a102fdff07586c8bcd2e3caf0f84ada18596bde583a5a",
+                "size_in_bytes": 3011
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/_lc.py",
+                "path_type": "hardlink",
+                "sha256": "e1f8de52c9a041c0802239cd9dd06273481fe6a2a6c554b70991ea510f51c398",
+                "sha256_in_prefix": "e1f8de52c9a041c0802239cd9dd06273481fe6a2a6c554b70991ea510f51c398",
+                "size_in_bytes": 882
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/_shared.py",
+                "path_type": "hardlink",
+                "sha256": "41cb4922c81f859aa07402dd0fe2fd154117d64dae354a49416e0d6dc18b5564",
+                "sha256_in_prefix": "41cb4922c81f859aa07402dd0fe2fd154117d64dae354a49416e0d6dc18b5564",
+                "size_in_bytes": 2747
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/typeddicts.py",
+                "path_type": "hardlink",
+                "sha256": "b2f1bc463a8db78d752b39111442a9eb3b091c9bebc1935ed544088507b0bfbc",
+                "sha256_in_prefix": "b2f1bc463a8db78d752b39111442a9eb3b091c9bebc1935ed544088507b0bfbc",
+                "size_in_bytes": 22085
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/literals.py",
+                "path_type": "hardlink",
+                "sha256": "d24cc07b099693d8a4246a0aab8cac9c0476d8331ac06de236a2e5f0d2e0a64d",
+                "sha256_in_prefix": "d24cc07b099693d8a4246a0aab8cac9c0476d8331ac06de236a2e5f0d2e0a64d",
+                "size_in_bytes": 331
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "60c63500373b3b3a6e67671d4196c7e6450a645df451877aa307f704e4f84ced",
+                "sha256_in_prefix": "60c63500373b3b3a6e67671d4196c7e6450a645df451877aa307f704e4f84ced",
+                "size_in_bytes": 1435
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/bson.py",
+                "path_type": "hardlink",
+                "sha256": "234eb7d961372fb54de5a03d4f73c9d49abf8b2e5739f4ec8c970a8d04843003",
+                "sha256_in_prefix": "234eb7d961372fb54de5a03d4f73c9d49abf8b2e5739f4ec8c970a8d04843003",
+                "size_in_bytes": 4211
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/cbor2.py",
+                "path_type": "hardlink",
+                "sha256": "a35deec802f25f676fc69e87458abfc47781f389c41b204e07457c39ca21637d",
+                "sha256_in_prefix": "a35deec802f25f676fc69e87458abfc47781f389c41b204e07457c39ca21637d",
+                "size_in_bytes": 2035
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/json.py",
+                "path_type": "hardlink",
+                "sha256": "26201eb547b3a90fe2c6347274b09abe4be7210c50093c905cacd5882faf3ba0",
+                "sha256_in_prefix": "26201eb547b3a90fe2c6347274b09abe4be7210c50093c905cacd5882faf3ba0",
+                "size_in_bytes": 2644
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/msgpack.py",
+                "path_type": "hardlink",
+                "sha256": "d76737b04e6d7c85558711c3e109996921a6c53bf01dfaed4dd934a2138270b2",
+                "sha256_in_prefix": "d76737b04e6d7c85558711c3e109996921a6c53bf01dfaed4dd934a2138270b2",
+                "size_in_bytes": 2338
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/msgspec.py",
+                "path_type": "hardlink",
+                "sha256": "1de6be8c291ca87ef0b4e3401e3a5ef4469aaa11a875015f90bb4ab96755d3d9",
+                "sha256_in_prefix": "1de6be8c291ca87ef0b4e3401e3a5ef4469aaa11a875015f90bb4ab96755d3d9",
+                "size_in_bytes": 7384
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/orjson.py",
+                "path_type": "hardlink",
+                "sha256": "a35199c2f1f68652dba2f9ac07b387ddf0e47113a11ce01028cb2b0d6dd54ec6",
+                "sha256_in_prefix": "a35199c2f1f68652dba2f9ac07b387ddf0e47113a11ce01028cb2b0d6dd54ec6",
+                "size_in_bytes": 3883
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/pyyaml.py",
+                "path_type": "hardlink",
+                "sha256": "c3468cfe027a56165ff99a6efd4949922eeb760bf899f6925c494fa1f0779e51",
+                "sha256_in_prefix": "c3468cfe027a56165ff99a6efd4949922eeb760bf899f6925c494fa1f0779e51",
+                "size_in_bytes": 2378
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/tomlkit.py",
+                "path_type": "hardlink",
+                "sha256": "b0fac1660abb660efccb7d5200f841b925909651b15d7cacc88fb6f93e8c63a5",
+                "sha256_in_prefix": "b0fac1660abb660efccb7d5200f841b925909651b15d7cacc88fb6f93e8c63a5",
+                "size_in_bytes": 3311
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/tomllib.py",
+                "path_type": "hardlink",
+                "sha256": "c033a155c224051d1bc39ccc0023e551c7f6617bfe79a9a083e1a619dbf87125",
+                "sha256_in_prefix": "c033a155c224051d1bc39ccc0023e551c7f6617bfe79a9a083e1a619dbf87125",
+                "size_in_bytes": 3083
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/ujson.py",
+                "path_type": "hardlink",
+                "sha256": "7afd5f74cbd074ff8f483a836c9ef5e0ecb75f18b695b73aa95499f8b19d80a8",
+                "sha256_in_prefix": "7afd5f74cbd074ff8f483a836c9ef5e0ecb75f18b695b73aa95499f8b19d80a8",
+                "size_in_bytes": 2438
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "9e46560b349161c4beef914c7e4e769a2a194ae5b291a37c841dfd5628395e48",
+                "sha256_in_prefix": "9e46560b349161c4beef914c7e4e769a2a194ae5b291a37c841dfd5628395e48",
+                "size_in_bytes": 339
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/_class_methods.py",
+                "path_type": "hardlink",
+                "sha256": "3b9c61402ccda6e1620cd0cc95b73278e56acab57ae4d84c64d46c1b78e7a015",
+                "sha256_in_prefix": "3b9c61402ccda6e1620cd0cc95b73278e56acab57ae4d84c64d46c1b78e7a015",
+                "size_in_bytes": 2591
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/_subclasses.py",
+                "path_type": "hardlink",
+                "sha256": "f1f4ebec22db3655763686e2d325e443d38aa46c9410d984cf2600b32e120c9c",
+                "sha256_in_prefix": "f1f4ebec22db3655763686e2d325e443d38aa46c9410d984cf2600b32e120c9c",
+                "size_in_bytes": 9852
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/_unions.py",
+                "path_type": "hardlink",
+                "sha256": "5d0c2b9cf104eca841a8ecb9bf2519d3aade40f7ea70ef398dd56343b8b71c59",
+                "sha256_in_prefix": "5d0c2b9cf104eca841a8ecb9bf2519d3aade40f7ea70ef398dd56343b8b71c59",
+                "size_in_bytes": 10070
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/subclasses.py",
+                "path_type": "hardlink",
+                "sha256": "4b201a27ce2c3b769e9ff741424b92008834786397617f9a175e7577b21b88d9",
+                "sha256_in_prefix": "4b201a27ce2c3b769e9ff741424b92008834786397617f9a175e7577b21b88d9",
+                "size_in_bytes": 783
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/typealiases.py",
+                "path_type": "hardlink",
+                "sha256": "b681dabc2da426c21cc53870bc04cf3b925287329e0bc90897d2aab5e16885bc",
+                "sha256_in_prefix": "b681dabc2da426c21cc53870bc04cf3b925287329e0bc90897d2aab5e16885bc",
+                "size_in_bytes": 1619
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/types.py",
+                "path_type": "hardlink",
+                "sha256": "72abdf9b396261faef3ecc31956fed3780e6850db1a40290bd56cd0496b1896b",
+                "sha256_in_prefix": "72abdf9b396261faef3ecc31956fed3780e6850db1a40290bd56cd0496b1896b",
+                "size_in_bytes": 278
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/v.py",
+                "path_type": "hardlink",
+                "sha256": "22a51a8e024508a2587fee12f5308a46d25c9a62b8737127ebd4c6b9fd8528eb",
+                "sha256_in_prefix": "22a51a8e024508a2587fee12f5308a46d25c9a62b8737127ebd4c6b9fd8528eb",
+                "size_in_bytes": 4126
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+                "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+                "size_in_bytes": 6
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "77de10b9d43480cd19cbf28d3ed2fb9f680479aeecf958abdade3facb0f8ccb0",
+                "sha256_in_prefix": "77de10b9d43480cd19cbf28d3ed2fb9f680479aeecf958abdade3facb0f8ccb0",
+                "size_in_bytes": 8542
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "90c473e81eb3f88a82c23e97bb3112eb5b4f2d0c90b37c8dbc86ae2d8723a38d",
+                "sha256_in_prefix": "90c473e81eb3f88a82c23e97bb3112eb5b4f2d0c90b37c8dbc86ae2d8723a38d",
+                "size_in_bytes": 7173
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "58b82a17209f9bf2804afe161f2632d0fde933f9bb2792fd936b2474a2e2ac2f",
+                "sha256_in_prefix": "58b82a17209f9bf2804afe161f2632d0fde933f9bb2792fd936b2474a2e2ac2f",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "cd3751251641cbd6c97b6681e73ab9ccf1b5439131e28a97e886b84bc6b1b58c",
+                "sha256_in_prefix": "cd3751251641cbd6c97b6681e73ab9ccf1b5439131e28a97e886b84bc6b1b58c",
+                "size_in_bytes": 117
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs-26.1.0.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "f5fb9d1ede37a88ca47f420c499dca0f4a05bc993e12c77d23520aad291c01bf",
+                "sha256_in_prefix": "f5fb9d1ede37a88ca47f420c499dca0f4a05bc993e12c77d23520aad291c01bf",
+                "size_in_bytes": 1074
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/converters.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/disambiguators.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/dispatch.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/errors.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/__pycache__/gen.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/bson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/json.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/msgpack.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/orjson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/pyyaml.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/tomlkit.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattr/preconf/__pycache__/ujson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/_compat.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/_generics.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/cols.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/converters.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/disambiguators.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/dispatch.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/enums.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/errors.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/fns.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/_consts.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/_generics.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/_lc.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/_shared.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/gen/__pycache__/typeddicts.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/literals.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/bson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/cbor2.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/json.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/msgpack.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/msgspec.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/orjson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/pyyaml.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/tomlkit.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/tomllib.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/preconf/__pycache__/ujson.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_class_methods.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_subclasses.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/strategies/__pycache__/_unions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/subclasses.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/typealiases.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/types.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/cattrs/__pycache__/v.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "requested_spec": "",
+    "sha256": "c3c5772e8f3c9080b3b89765bb9e9d88972792b54d96d546c29672965bbb8d6c",
+    "size": 59678,
+    "subdir": "noarch",
+    "timestamp": 1771485958,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/cattrs-26.1.0-pyhcf101f3_1.conda",
+    "version": "26.1.0"
+}

@@ -1,0 +1,40 @@
+{
+    "arch": "x86_64",
+    "build": "py310hff52083_0",
+    "build_number": 0,
+    "build_string": "py310hff52083_0",
+    "channel": "conda-forge",
+    "depends": [
+        "python_abi 3.10.* *_cp310",
+        "python >=3.10,<3.11.0a0",
+        "libarrow-substrait 23.0.1.*",
+        "libarrow-acero 23.0.1.*",
+        "libarrow-dataset 23.0.1.*",
+        "libparquet 23.0.1.*",
+        "pyarrow-core 23.0.1 *_0_*"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pyarrow-23.0.1-py310hff52083_0",
+    "files": [],
+    "fn": "pyarrow-23.0.1-py310hff52083_0.conda",
+    "license": "Apache-2.0",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pyarrow-23.0.1-py310hff52083_0",
+        "type": 1
+    },
+    "md5": "d64af1be9ecd01dc8d1d668997ccab66",
+    "name": "pyarrow",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pyarrow-23.0.1-py310hff52083_0.tar.bz2",
+    "paths_data": {
+        "paths": [],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "89d64743488a98a5c431308521a86c718d15ec5b3054b42a90a1cba2eecc4d1c",
+    "size": 28679,
+    "subdir": "linux-64",
+    "timestamp": 1771307261,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/pyarrow-23.0.1-py310hff52083_0.conda",
+    "version": "23.0.1"
+}

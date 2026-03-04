@@ -1,0 +1,161 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "requests",
+        "matplotlib-base",
+        "pillow",
+        "joblib",
+        "rasterio",
+        "xyzservices",
+        "geopy",
+        "mercantile",
+        "python >=3.10"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/contextily-1.7.0-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/METADATA",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/RECORD",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/WHEEL",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/licenses/LICENSE.txt",
+        "lib/python3.10/site-packages/contextily-1.7.0.dist-info/top_level.txt",
+        "lib/python3.10/site-packages/contextily/__init__.py",
+        "lib/python3.10/site-packages/contextily/place.py",
+        "lib/python3.10/site-packages/contextily/plotting.py",
+        "lib/python3.10/site-packages/contextily/tile.py",
+        "lib/python3.10/site-packages/contextily/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/contextily/__pycache__/place.cpython-310.pyc",
+        "lib/python3.10/site-packages/contextily/__pycache__/plotting.cpython-310.pyc",
+        "lib/python3.10/site-packages/contextily/__pycache__/tile.cpython-310.pyc"
+    ],
+    "fn": "contextily-1.7.0-pyhd8ed1ab_0.conda",
+    "license": "BSD-3-Clause",
+    "license_family": "BSD",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/contextily-1.7.0-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "e7d5beefd8351cf01a2f4bfcb8b6dbdb",
+    "name": "contextily",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/contextily-1.7.0-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "678fb4a9f5f4902af9a700c34a55e5429bd28146c833a9a600b4fe83b3b62357",
+                "sha256_in_prefix": "678fb4a9f5f4902af9a700c34a55e5429bd28146c833a9a600b4fe83b3b62357",
+                "size_in_bytes": 3144
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "04a410e8c95dfc4e17cc52bc558ce505dbf62092276ea4ff5f2201ebb960fefe",
+                "sha256_in_prefix": "04a410e8c95dfc4e17cc52bc558ce505dbf62092276ea4ff5f2201ebb960fefe",
+                "size_in_bytes": 1211
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+                "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+                "size_in_bytes": 91
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "4b43558b7a74e60f0a1aa6715cbb920404fa6d34167f4da231a712efe47a06b8",
+                "sha256_in_prefix": "4b43558b7a74e60f0a1aa6715cbb920404fa6d34167f4da231a712efe47a06b8",
+                "size_in_bytes": 106
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/licenses/LICENSE.txt",
+                "path_type": "hardlink",
+                "sha256": "79728a91f9aadc98ee059fd5654dd0dcb6b78b063c93de4400d7f5ef56031e29",
+                "sha256_in_prefix": "79728a91f9aadc98ee059fd5654dd0dcb6b78b063c93de4400d7f5ef56031e29",
+                "size_in_bytes": 1492
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily-1.7.0.dist-info/top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "c7138cedc78e4ed4c0bec50d8b813bdc5154f2f3ce9394c59751113784202100",
+                "sha256_in_prefix": "c7138cedc78e4ed4c0bec50d8b813bdc5154f2f3ce9394c59751113784202100",
+                "size_in_bytes": 11
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "bad3b750e20dc1968bac6aa773a2ba23982d445b44513116d27965f170540d2e",
+                "sha256_in_prefix": "bad3b750e20dc1968bac6aa773a2ba23982d445b44513116d27965f170540d2e",
+                "size_in_bytes": 386
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/place.py",
+                "path_type": "hardlink",
+                "sha256": "e32d9e2a20e45f0438e363d6daf58afbc9b3287556472b2f7be1604dad5b938c",
+                "sha256_in_prefix": "e32d9e2a20e45f0438e363d6daf58afbc9b3287556472b2f7be1604dad5b938c",
+                "size_in_bytes": 7673
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/plotting.py",
+                "path_type": "hardlink",
+                "sha256": "d533ff63619896d08e9481c2b44d1d4b9edff9f449e33452cca7620168d400cc",
+                "sha256_in_prefix": "d533ff63619896d08e9481c2b44d1d4b9edff9f449e33452cca7620168d400cc",
+                "size_in_bytes": 10883
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/tile.py",
+                "path_type": "hardlink",
+                "sha256": "34ebf99ce13892d68e7867be04343b69b7b7f80940ec2087f79be0a54285b4cc",
+                "sha256_in_prefix": "34ebf99ce13892d68e7867be04343b69b7b7f80940ec2087f79be0a54285b4cc",
+                "size_in_bytes": 22840
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/__pycache__/place.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/__pycache__/plotting.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/contextily/__pycache__/tile.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "contextily",
+    "sha256": "ded63e2434aad12d73aec04a74812bfb7e6159d69adbd70b33e31d910309b0b3",
+    "size": 21018,
+    "subdir": "noarch",
+    "timestamp": 1764021876,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/contextily-1.7.0-pyhd8ed1ab_0.conda",
+    "version": "1.7.0"
+}

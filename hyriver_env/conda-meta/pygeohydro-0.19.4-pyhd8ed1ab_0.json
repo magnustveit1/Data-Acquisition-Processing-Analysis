@@ -1,0 +1,320 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "scipy",
+        "h5netcdf",
+        "defusedxml",
+        "folium",
+        "cytoolz",
+        "pyogrio",
+        "python >=3.9",
+        "pandas >=1.0",
+        "numpy >=1.21",
+        "shapely >=2",
+        "rioxarray >=0.11",
+        "pyproj >=3.0.1",
+        "xarray >=2023.01.0",
+        "geopandas-base >=1",
+        "async-retriever >=0.19.3,<0.20",
+        "pygeoutils >=0.19.5,<0.20",
+        "hydrosignatures >=0.19.3,<0.20",
+        "pynhd >=0.19.3,<0.20",
+        "pygeoogc >=0.19.4,<0.20"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeohydro-0.19.4-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/METADATA",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/RECORD",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/WHEEL",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/pygeohydro/__init__.py",
+        "lib/python3.10/site-packages/pygeohydro/exceptions.py",
+        "lib/python3.10/site-packages/pygeohydro/helpers.py",
+        "lib/python3.10/site-packages/pygeohydro/levee.py",
+        "lib/python3.10/site-packages/pygeohydro/nfhl.py",
+        "lib/python3.10/site-packages/pygeohydro/nid.py",
+        "lib/python3.10/site-packages/pygeohydro/nlcd.py",
+        "lib/python3.10/site-packages/pygeohydro/nwis.py",
+        "lib/python3.10/site-packages/pygeohydro/plot.py",
+        "lib/python3.10/site-packages/pygeohydro/print_versions.py",
+        "lib/python3.10/site-packages/pygeohydro/py.typed",
+        "lib/python3.10/site-packages/pygeohydro/pygeohydro.py",
+        "lib/python3.10/site-packages/pygeohydro/stnfloodevents.py",
+        "lib/python3.10/site-packages/pygeohydro/us_abbrs.py",
+        "lib/python3.10/site-packages/pygeohydro/waterdata.py",
+        "lib/python3.10/site-packages/pygeohydro/watershed.py",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/helpers.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/levee.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/nfhl.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/nid.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/nlcd.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/nwis.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/plot.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/pygeohydro.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/stnfloodevents.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/us_abbrs.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/waterdata.cpython-310.pyc",
+        "lib/python3.10/site-packages/pygeohydro/__pycache__/watershed.cpython-310.pyc"
+    ],
+    "fn": "pygeohydro-0.19.4-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeohydro-0.19.4-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "0392ec06820737bb31a96810976b5f9c",
+    "name": "pygeohydro",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pygeohydro-0.19.4-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "305f27d0243d3a6e8e033d5d08f3b849843f2eef3de904218cbc9b1168e36ca7",
+                "sha256_in_prefix": "305f27d0243d3a6e8e033d5d08f3b849843f2eef3de904218cbc9b1168e36ca7",
+                "size_in_bytes": 22741
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "aecde036b946666daeef1fe79b341b27d6c4d6503fbb37f26136c680dbd7a721",
+                "sha256_in_prefix": "aecde036b946666daeef1fe79b341b27d6c4d6503fbb37f26136c680dbd7a721",
+                "size_in_bytes": 2729
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "3240669e956d82fa2512bcf60f7e789ba75fe84397dd9f3134a979907743e8ae",
+                "sha256_in_prefix": "3240669e956d82fa2512bcf60f7e789ba75fe84397dd9f3134a979907743e8ae",
+                "size_in_bytes": 106
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "f21c7fe3ef76694527b653ac6bb809759eb9db585e123fc2dd8b459a2a555d4d",
+                "sha256_in_prefix": "f21c7fe3ef76694527b653ac6bb809759eb9db585e123fc2dd8b459a2a555d4d",
+                "size_in_bytes": 204
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro-0.19.4.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "0e0108c4e8d1207634ef575b4ad85b07b59d2e5a1a0236e5f9d82738885cc17a",
+                "sha256_in_prefix": "0e0108c4e8d1207634ef575b4ad85b07b59d2e5a1a0236e5f9d82738885cc17a",
+                "size_in_bytes": 1994
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "9932e3bc10fdf9d9dbfe0bcc2033c72b56898e14d4b81b877d7be0414d337318",
+                "sha256_in_prefix": "9932e3bc10fdf9d9dbfe0bcc2033c72b56898e14d4b81b877d7be0414d337318",
+                "size_in_bytes": 5299
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/helpers.py",
+                "path_type": "hardlink",
+                "sha256": "4b143d1d1436cd4afa65f4ef58d92960672e2e0380ab6e573d9c9e59855e95d1",
+                "sha256_in_prefix": "4b143d1d1436cd4afa65f4ef58d92960672e2e0380ab6e573d9c9e59855e95d1",
+                "size_in_bytes": 9899
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/levee.py",
+                "path_type": "hardlink",
+                "sha256": "b8e7175079e2947d99ba573a6675ecd09d7b39d99758ae4f3da3fe00215ad551",
+                "sha256_in_prefix": "b8e7175079e2947d99ba573a6675ecd09d7b39d99758ae4f3da3fe00215ad551",
+                "size_in_bytes": 3619
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/nfhl.py",
+                "path_type": "hardlink",
+                "sha256": "721acbda266ab8875ce370522960c7899cdc7eeb38f765f233187dd8d240e136",
+                "sha256_in_prefix": "721acbda266ab8875ce370522960c7899cdc7eeb38f765f233187dd8d240e136",
+                "size_in_bytes": 6975
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/nid.py",
+                "path_type": "hardlink",
+                "sha256": "c218881e87f344b2278eebbcf91652ca43794c0e070de16b4f56667bfa3e03cd",
+                "sha256_in_prefix": "c218881e87f344b2278eebbcf91652ca43794c0e070de16b4f56667bfa3e03cd",
+                "size_in_bytes": 19183
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/nlcd.py",
+                "path_type": "hardlink",
+                "sha256": "a2d9e9a78ae6a02e274795d6c28eaba396d046b2f0aeb6bd339b16958a905b27",
+                "sha256_in_prefix": "a2d9e9a78ae6a02e274795d6c28eaba396d046b2f0aeb6bd339b16958a905b27",
+                "size_in_bytes": 16421
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/nwis.py",
+                "path_type": "hardlink",
+                "sha256": "7b1d3c08370deb153a5cbcf236263ef201f93e721d38cd13098bda1c1b7b045a",
+                "sha256_in_prefix": "7b1d3c08370deb153a5cbcf236263ef201f93e721d38cd13098bda1c1b7b045a",
+                "size_in_bytes": 27596
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/plot.py",
+                "path_type": "hardlink",
+                "sha256": "eb218e86fdb02b5964d431a59703ecb75c59238651ece5248ed8240e38462628",
+                "sha256_in_prefix": "eb218e86fdb02b5964d431a59703ecb75c59238651ece5248ed8240e38462628",
+                "size_in_bytes": 5904
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "sha256_in_prefix": "f6943b52820f87bda800e829abc440b56315b03b6a3ba2f1b279330fa9c1718e",
+                "size_in_bytes": 4298
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/pygeohydro.py",
+                "path_type": "hardlink",
+                "sha256": "8941532844a2f31a59d9875c0c0aabf1bcba62f7c54c0ec7e9f0cdce2425116d",
+                "sha256_in_prefix": "8941532844a2f31a59d9875c0c0aabf1bcba62f7c54c0ec7e9f0cdce2425116d",
+                "size_in_bytes": 30266
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/stnfloodevents.py",
+                "path_type": "hardlink",
+                "sha256": "7c9d0168e36d87041eb4f14ca63e50e31775f746b36d835852a91a5095c8ef9b",
+                "sha256_in_prefix": "7c9d0168e36d87041eb4f14ca63e50e31775f746b36d835852a91a5095c8ef9b",
+                "size_in_bytes": 21141
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/us_abbrs.py",
+                "path_type": "hardlink",
+                "sha256": "3d68f90ec30dd34fcf80c1e0f450ee6993c5d11eefc0a717db250c4da2adf2e3",
+                "sha256_in_prefix": "3d68f90ec30dd34fcf80c1e0f450ee6993c5d11eefc0a717db250c4da2adf2e3",
+                "size_in_bytes": 1258
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/waterdata.py",
+                "path_type": "hardlink",
+                "sha256": "8c17e903efe6e2619e15bdb80e57b1f2d87b6b8d4f4215cb3e3e2d268befc384",
+                "sha256_in_prefix": "8c17e903efe6e2619e15bdb80e57b1f2d87b6b8d4f4215cb3e3e2d268befc384",
+                "size_in_bytes": 14945
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/watershed.py",
+                "path_type": "hardlink",
+                "sha256": "3d28e65d1d9a30d53b3590cbfb681382bcc057ba47b5de31c8cbbfeed42c5c62",
+                "sha256_in_prefix": "3d28e65d1d9a30d53b3590cbfb681382bcc057ba47b5de31c8cbbfeed42c5c62",
+                "size_in_bytes": 5305
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/helpers.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/levee.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/nfhl.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/nid.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/nlcd.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/nwis.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/plot.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/pygeohydro.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/stnfloodevents.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/us_abbrs.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/waterdata.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pygeohydro/__pycache__/watershed.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "pygeohydro",
+    "sha256": "398ac3a564852b2618960026974114ecd8de87649cf0622485a1bc506802fa88",
+    "size": 54389,
+    "subdir": "noarch",
+    "timestamp": 1748059642,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pygeohydro-0.19.4-pyhd8ed1ab_0.conda",
+    "version": "0.19.4"
+}

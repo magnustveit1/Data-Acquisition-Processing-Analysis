@@ -1,0 +1,180 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "netcdf4",
+        "python >=3.9",
+        "numpy >=2",
+        "shapely >=2",
+        "pandas >=1",
+        "pyproj >=3.0.1",
+        "xarray >=2024.7",
+        "rioxarray >=0.15",
+        "tiny-retriever >=0.1.3"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynldas2-0.19.3-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/INSTALLER",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/METADATA",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/RECORD",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/REQUESTED",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/WHEEL",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/direct_url.json",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/licenses/AUTHORS.rst",
+        "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/licenses/LICENSE",
+        "lib/python3.10/site-packages/pynldas2/__init__.py",
+        "lib/python3.10/site-packages/pynldas2/_utils.py",
+        "lib/python3.10/site-packages/pynldas2/exceptions.py",
+        "lib/python3.10/site-packages/pynldas2/print_versions.py",
+        "lib/python3.10/site-packages/pynldas2/py.typed",
+        "lib/python3.10/site-packages/pynldas2/pynldas2.py",
+        "lib/python3.10/site-packages/pynldas2/__pycache__/__init__.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynldas2/__pycache__/_utils.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynldas2/__pycache__/exceptions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynldas2/__pycache__/print_versions.cpython-310.pyc",
+        "lib/python3.10/site-packages/pynldas2/__pycache__/pynldas2.cpython-310.pyc"
+    ],
+    "fn": "pynldas2-0.19.3-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynldas2-0.19.3-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "080c5e058a28d22b7ce2a442657ad0c9",
+    "name": "pynldas2",
+    "noarch": "python",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/pynldas2-0.19.3-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "bff92f9827465766f55c55fcf6a74f2941071cffb7390ffb6581dcf711c10d17",
+                "sha256_in_prefix": "bff92f9827465766f55c55fcf6a74f2941071cffb7390ffb6581dcf711c10d17",
+                "size_in_bytes": 11954
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "7635237d6acacaad20dc55a8c75da04ac351112217af169d2b72aa954bc51a1d",
+                "sha256_in_prefix": "7635237d6acacaad20dc55a8c75da04ac351112217af169d2b72aa954bc51a1d",
+                "size_in_bytes": 1411
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "3623ba41c5a3e62e3859670796859adc0a8d07f6e530d1111ccd97139e3919ec",
+                "sha256_in_prefix": "3623ba41c5a3e62e3859670796859adc0a8d07f6e530d1111ccd97139e3919ec",
+                "size_in_bytes": 104
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/licenses/AUTHORS.rst",
+                "path_type": "hardlink",
+                "sha256": "8ea4e9f49f2c9d751fab0c1b4038bfce9825eaa18f19e720572ffe863fa66c70",
+                "sha256_in_prefix": "8ea4e9f49f2c9d751fab0c1b4038bfce9825eaa18f19e720572ffe863fa66c70",
+                "size_in_bytes": 168
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2-0.19.3.dist-info/licenses/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "sha256_in_prefix": "10cf3b36062069b3b46bf13ecf69e66ecaf1a265dd2390430a09a89950ef2ec1",
+                "size_in_bytes": 1096
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "b2cc95c0e6323dd31454ca2cf11e01703c6c5d390a9d1b77cce14d41a875c0ac",
+                "sha256_in_prefix": "b2cc95c0e6323dd31454ca2cf11e01703c6c5d390a9d1b77cce14d41a875c0ac",
+                "size_in_bytes": 532
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/_utils.py",
+                "path_type": "hardlink",
+                "sha256": "75cc55908508a628087acc52e8a67f2ececcf27cf7fb1848c1b9c212aa4889b1",
+                "sha256_in_prefix": "75cc55908508a628087acc52e8a67f2ececcf27cf7fb1848c1b9c212aa4889b1",
+                "size_in_bytes": 5626
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/exceptions.py",
+                "path_type": "hardlink",
+                "sha256": "64d24523d81ee2dbacb37b57e697d47aa644e268aec90ed7a7939a64eed3a8b4",
+                "sha256_in_prefix": "64d24523d81ee2dbacb37b57e697d47aa644e268aec90ed7a7939a64eed3a8b4",
+                "size_in_bytes": 2679
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/print_versions.py",
+                "path_type": "hardlink",
+                "sha256": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "sha256_in_prefix": "e71d2732bd0e3db0c57daab2d87e92b5b8c8ffb1626112d610037417c35477a9",
+                "size_in_bytes": 4295
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/pynldas2.py",
+                "path_type": "hardlink",
+                "sha256": "2d8172c1eaf67e7295d9d7c6dcdaa1547007c0a86158e847f0c93e59a16f3deb",
+                "sha256_in_prefix": "2d8172c1eaf67e7295d9d7c6dcdaa1547007c0a86158e847f0c93e59a16f3deb",
+                "size_in_bytes": 18926
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__pycache__/__init__.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__pycache__/_utils.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__pycache__/exceptions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__pycache__/print_versions.cpython-310.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.10/site-packages/pynldas2/__pycache__/pynldas2.cpython-310.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "pynldas2",
+    "sha256": "fe6ce0dc9fb881b4f50951afd60c385c77b46bbd5729890ad02a07a9175717d1",
+    "size": 20906,
+    "subdir": "noarch",
+    "timestamp": 1741375986,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pynldas2-0.19.3-pyhd8ed1ab_0.conda",
+    "version": "0.19.3"
+}

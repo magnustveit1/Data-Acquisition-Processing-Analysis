@@ -1,0 +1,173 @@
+{
+    "arch": "x86_64",
+    "build": "haa4a5bd_1022",
+    "build_number": 1022,
+    "build_string": "haa4a5bd_1022",
+    "channel": "conda-forge",
+    "depends": [
+        "__glibc >=2.17,<3.0.a0",
+        "libgcc >=14",
+        "libstdcxx >=14",
+        "libzlib >=1.3.1,<2.0a0",
+        "libexpat >=2.7.1,<3.0a0",
+        "uriparser >=0.9.8,<1.0a0"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libkml-1.3.0-haa4a5bd_1022",
+    "files": [
+        "lib/libkmlbase.so",
+        "lib/libkmlbase.so.1",
+        "lib/libkmlbase.so.1.3.0",
+        "lib/libkmlconvenience.so",
+        "lib/libkmlconvenience.so.1",
+        "lib/libkmlconvenience.so.1.3.0",
+        "lib/libkmldom.so",
+        "lib/libkmldom.so.1",
+        "lib/libkmldom.so.1.3.0",
+        "lib/libkmlengine.so",
+        "lib/libkmlengine.so.1",
+        "lib/libkmlengine.so.1.3.0",
+        "lib/libkmlregionator.so",
+        "lib/libkmlregionator.so.1",
+        "lib/libkmlregionator.so.1.3.0",
+        "lib/libkmlxsd.so",
+        "lib/libkmlxsd.so.1",
+        "lib/libkmlxsd.so.1.3.0"
+    ],
+    "fn": "libkml-1.3.0-haa4a5bd_1022.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libkml-1.3.0-haa4a5bd_1022",
+        "type": 1
+    },
+    "md5": "00f0f4a9d2eb174015931b1a234d61ca",
+    "name": "libkml",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libkml-1.3.0-haa4a5bd_1022.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libkmlbase.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "e21b5b2eb0550b13b84a6c775e77dadc59d912044a52932279fda61da9dc2f34",
+                "size_in_bytes": 177728
+            },
+            {
+                "_path": "lib/libkmlbase.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "e21b5b2eb0550b13b84a6c775e77dadc59d912044a52932279fda61da9dc2f34",
+                "size_in_bytes": 177728
+            },
+            {
+                "_path": "lib/libkmlbase.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "e21b5b2eb0550b13b84a6c775e77dadc59d912044a52932279fda61da9dc2f34",
+                "sha256_in_prefix": "e21b5b2eb0550b13b84a6c775e77dadc59d912044a52932279fda61da9dc2f34",
+                "size_in_bytes": 177728
+            },
+            {
+                "_path": "lib/libkmlconvenience.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "2a078225593a7f56bdc510553b7671ccbfc389fa1b858391e147f5db0d423849",
+                "size_in_bytes": 177840
+            },
+            {
+                "_path": "lib/libkmlconvenience.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "2a078225593a7f56bdc510553b7671ccbfc389fa1b858391e147f5db0d423849",
+                "size_in_bytes": 177840
+            },
+            {
+                "_path": "lib/libkmlconvenience.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "2a078225593a7f56bdc510553b7671ccbfc389fa1b858391e147f5db0d423849",
+                "sha256_in_prefix": "2a078225593a7f56bdc510553b7671ccbfc389fa1b858391e147f5db0d423849",
+                "size_in_bytes": 177840
+            },
+            {
+                "_path": "lib/libkmldom.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "01709c3319689f265ed91a7db24575da24702dc33117eaf90d5a87d630f8e2dc",
+                "size_in_bytes": 981776
+            },
+            {
+                "_path": "lib/libkmldom.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "01709c3319689f265ed91a7db24575da24702dc33117eaf90d5a87d630f8e2dc",
+                "size_in_bytes": 981776
+            },
+            {
+                "_path": "lib/libkmldom.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "01709c3319689f265ed91a7db24575da24702dc33117eaf90d5a87d630f8e2dc",
+                "sha256_in_prefix": "01709c3319689f265ed91a7db24575da24702dc33117eaf90d5a87d630f8e2dc",
+                "size_in_bytes": 981776
+            },
+            {
+                "_path": "lib/libkmlengine.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "52efa79f76c43ddbc513469b9ebde13b3a0701a303ab2610c67ff2311c3d01e9",
+                "size_in_bytes": 309880
+            },
+            {
+                "_path": "lib/libkmlengine.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "52efa79f76c43ddbc513469b9ebde13b3a0701a303ab2610c67ff2311c3d01e9",
+                "size_in_bytes": 309880
+            },
+            {
+                "_path": "lib/libkmlengine.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "52efa79f76c43ddbc513469b9ebde13b3a0701a303ab2610c67ff2311c3d01e9",
+                "sha256_in_prefix": "52efa79f76c43ddbc513469b9ebde13b3a0701a303ab2610c67ff2311c3d01e9",
+                "size_in_bytes": 309880
+            },
+            {
+                "_path": "lib/libkmlregionator.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "ee36b87b55b7910adcfaf2ebca7e8caf8292ed3bf94379c3fce0054b835066d8",
+                "size_in_bytes": 59592
+            },
+            {
+                "_path": "lib/libkmlregionator.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "ee36b87b55b7910adcfaf2ebca7e8caf8292ed3bf94379c3fce0054b835066d8",
+                "size_in_bytes": 59592
+            },
+            {
+                "_path": "lib/libkmlregionator.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "ee36b87b55b7910adcfaf2ebca7e8caf8292ed3bf94379c3fce0054b835066d8",
+                "sha256_in_prefix": "ee36b87b55b7910adcfaf2ebca7e8caf8292ed3bf94379c3fce0054b835066d8",
+                "size_in_bytes": 59592
+            },
+            {
+                "_path": "lib/libkmlxsd.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "a84313e24cd9d0f57197f1070c0fc5b003c70b105db74922a38849ce08e698cf",
+                "size_in_bytes": 103296
+            },
+            {
+                "_path": "lib/libkmlxsd.so.1",
+                "path_type": "softlink",
+                "sha256_in_prefix": "a84313e24cd9d0f57197f1070c0fc5b003c70b105db74922a38849ce08e698cf",
+                "size_in_bytes": 103296
+            },
+            {
+                "_path": "lib/libkmlxsd.so.1.3.0",
+                "path_type": "hardlink",
+                "sha256": "a84313e24cd9d0f57197f1070c0fc5b003c70b105db74922a38849ce08e698cf",
+                "sha256_in_prefix": "a84313e24cd9d0f57197f1070c0fc5b003c70b105db74922a38849ce08e698cf",
+                "size_in_bytes": 103296
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "aa55f5779d6bc7bf24dc8257f053d5a0708b5910b6bc6ea1396f15febf812c98",
+    "size": 411495,
+    "subdir": "linux-64",
+    "timestamp": 1761132836,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/libkml-1.3.0-haa4a5bd_1022.conda",
+    "version": "1.3.0"
+}

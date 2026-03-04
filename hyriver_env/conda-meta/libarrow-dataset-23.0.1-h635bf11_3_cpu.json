@@ -1,0 +1,104 @@
+{
+    "arch": "x86_64",
+    "build": "h635bf11_3_cpu",
+    "build_number": 3,
+    "build_string": "h635bf11_3_cpu",
+    "channel": "conda-forge",
+    "depends": [
+        "__glibc >=2.17,<3.0.a0",
+        "libgcc >=14",
+        "libstdcxx >=14",
+        "libarrow 23.0.1 h711ef25_3_cpu",
+        "libarrow-compute 23.0.1 h53684a4_3_cpu",
+        "libarrow-acero 23.0.1 h635bf11_3_cpu",
+        "libparquet 23.0.1 h7376487_3_cpu"
+    ],
+    "extracted_package_dir": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-dataset-23.0.1-h635bf11_3_cpu",
+    "files": [
+        "lib/cmake/ArrowDataset/ArrowDatasetConfig.cmake",
+        "lib/cmake/ArrowDataset/ArrowDatasetConfigVersion.cmake",
+        "lib/cmake/ArrowDataset/ArrowDatasetTargets-release.cmake",
+        "lib/cmake/ArrowDataset/ArrowDatasetTargets.cmake",
+        "lib/libarrow_dataset.so",
+        "lib/libarrow_dataset.so.2300",
+        "lib/libarrow_dataset.so.2300.1.0",
+        "lib/pkgconfig/arrow-dataset.pc"
+    ],
+    "fn": "libarrow-dataset-23.0.1-h635bf11_3_cpu.conda",
+    "license": "Apache-2.0",
+    "link": {
+        "source": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-dataset-23.0.1-h635bf11_3_cpu",
+        "type": 1
+    },
+    "md5": "9d4fcb24972610d1ad53acf6773f92cb",
+    "name": "libarrow-dataset",
+    "package_tarball_full_path": "/uufs/chpc.utah.edu/common/home/u0972368/.mamba/pkgs/libarrow-dataset-23.0.1-h635bf11_3_cpu.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/cmake/ArrowDataset/ArrowDatasetConfig.cmake",
+                "path_type": "hardlink",
+                "sha256": "80ddb23ab3dbc10e81e10660b2295d9515e5974a551c39bb731c6fe483164f21",
+                "sha256_in_prefix": "80ddb23ab3dbc10e81e10660b2295d9515e5974a551c39bb731c6fe483164f21",
+                "size_in_bytes": 2793
+            },
+            {
+                "_path": "lib/cmake/ArrowDataset/ArrowDatasetConfigVersion.cmake",
+                "path_type": "hardlink",
+                "sha256": "6c7076aeff562bc6d31ca3f21452a5799f5749ea8a3814a17adb3baecdb66409",
+                "sha256_in_prefix": "6c7076aeff562bc6d31ca3f21452a5799f5749ea8a3814a17adb3baecdb66409",
+                "size_in_bytes": 2765
+            },
+            {
+                "_path": "lib/cmake/ArrowDataset/ArrowDatasetTargets-release.cmake",
+                "path_type": "hardlink",
+                "sha256": "3f8a5f7059faafe798954cb7a6f93d90823f8b076ba99cff3670694df13bf025",
+                "sha256_in_prefix": "3f8a5f7059faafe798954cb7a6f93d90823f8b076ba99cff3670694df13bf025",
+                "size_in_bytes": 1250
+            },
+            {
+                "_path": "lib/cmake/ArrowDataset/ArrowDatasetTargets.cmake",
+                "path_type": "hardlink",
+                "sha256": "3e8122376d27eb528a6b7263551a84870bd4f2342a15cefa6432b0515f7fde19",
+                "sha256_in_prefix": "3e8122376d27eb528a6b7263551a84870bd4f2342a15cefa6432b0515f7fde19",
+                "size_in_bytes": 4289
+            },
+            {
+                "_path": "lib/libarrow_dataset.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "a562b3e18645ca42f6a9247634095b3be1c0688b90e3128ee8043bbd1bf651ef",
+                "size_in_bytes": 2456176
+            },
+            {
+                "_path": "lib/libarrow_dataset.so.2300",
+                "path_type": "softlink",
+                "sha256_in_prefix": "a562b3e18645ca42f6a9247634095b3be1c0688b90e3128ee8043bbd1bf651ef",
+                "size_in_bytes": 2456176
+            },
+            {
+                "_path": "lib/libarrow_dataset.so.2300.1.0",
+                "path_type": "hardlink",
+                "sha256": "a562b3e18645ca42f6a9247634095b3be1c0688b90e3128ee8043bbd1bf651ef",
+                "sha256_in_prefix": "a562b3e18645ca42f6a9247634095b3be1c0688b90e3128ee8043bbd1bf651ef",
+                "size_in_bytes": 2456176
+            },
+            {
+                "_path": "lib/pkgconfig/arrow-dataset.pc",
+                "path_type": "hardlink",
+                "sha256": "ce86e362654b33c17086adab9b4a8189501ab739ee2f522a8ccb3751de290910",
+                "sha256_in_prefix": "759585ea496153ca43e76aab9465cb8eaaf2334f4d15fc2eceb07b441c605fb5",
+                "size_in_bytes": 1374
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "366d81411466a43e950505d3fbd37609e99708979b49176c10ae655424bc8c40",
+    "size": 608087,
+    "subdir": "linux-64",
+    "timestamp": 1772107412,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/libarrow-dataset-23.0.1-h635bf11_3_cpu.conda",
+    "version": "23.0.1"
+}
