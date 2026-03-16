@@ -9,6 +9,7 @@ import pyproj
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import certifi
+from dataretrieval import nwis
 pd.options.mode.chained_assignment = None
 
 def getSNOTELData(SiteName, SiteID, StateAbb, StartDate, EndDate, OutputFolder):
@@ -202,6 +203,40 @@ def combine(snotel_files, nwm_files, StartDate, EndDate):
 
     return combined_df
 
+def get_usgs_streamflow(site_id, start_date, end_date):
+    """
+    Retrieves daily mean streamflow data from USGS NWIS.
+    
+    Parameters:
+    site_id (str): The USGS station ID (e.g., '09380000')
+    start_date (str): Beginning date in 'YYYY-MM-DD' format
+    end_date (str): End date in 'YYYY-MM-DD' format
+    """
+    # Parameter code '00060' refers specifically to Discharge (streamflow) in cfs
+    parameter_code = '00060'
+    
+    print(f"Retrieving data for Site: {site_id} from {start_date} to {end_date}...")
+    
+    try:
+        # get_dv retrieves "Daily Values"
+        # returns a DataFrame and a metadata object
+        df, metadata = nwis.get_dv(
+            sites=site_id, 
+            start=start_date, 
+            end=end_date, 
+            parameterCd=parameter_code
+        )
+        
+        # Clean up the column names for easier use
+        # Usually, the flow data is in a column like '00060_Mean'
+        df.rename(columns={f'{parameter_code}_00003': 'Streamflow_cfs'}, inplace=True)
+        
+        return df
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+
 if __name__ == "__main__":
 	SiteName = sys.argv[1]
 	SiteID = sys.argv[2]
@@ -210,4 +245,3 @@ if __name__ == "__main__":
 	EndDate = sys.argv[5]
 	OutputFolder = sys.argv[6]
 	
-	getData(SiteName, SiteID, StateAbb, StartDate, EndDate, OutputFolder)

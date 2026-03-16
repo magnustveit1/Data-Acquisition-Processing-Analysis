@@ -1,6 +1,30 @@
 import pandas as pd
 import os
 
+
+
+def clean_nwis_dataframe(df):
+    """
+    Cleans an NWIS Daily Values (DV) DataFrame:
+    - Converts index to datetime (date only)
+    - Renames '00060_Mean' to 'flow_cfs'
+    - Removes any extra '00060_Mean_cd' (qualification code) columns
+    """
+    # 1. Ensure the index is datetime and strip H:M:S
+    df.index = pd.to_datetime(df.index).date
+    df.index = pd.to_datetime(df.index)
+    
+    # 2. Rename the flow column
+    # USGS usually names this '00060_Mean' for Daily Values
+    if '00060_Mean' in df.columns:
+        df.rename(columns={'00060_Mean': 'flow_cfs'}, inplace=True)
+    
+    # 3. Remove the '00060_Mean_cd' column (the metadata/quality code)
+    if '00060_Mean_cd' in df.columns:
+        df.drop(columns=['00060_Mean_cd'], inplace=True)
+        
+    return df
+
 '''
 The function to process raw SNOTEL data for a given site and water year,
 and calculate the min, mean, median, max SWE for each day of the water year
