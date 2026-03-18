@@ -203,7 +203,7 @@ def combine(snotel_files, nwm_files, StartDate, EndDate):
 
     return combined_df
 
-def get_usgs_streamflow(site_id, start_date, end_date):
+def get_usgs_streamflow(site_id, start_date="1980-01-01", end_date=datetime.datetime.today().strftime('%Y-%m-%d')):
     """
     Retrieves daily mean streamflow data from USGS NWIS.
     
