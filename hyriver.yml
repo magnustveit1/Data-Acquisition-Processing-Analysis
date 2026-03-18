@@ -14,3 +14,12 @@ dependencies:
   - python=3.10
   - pydaymet[version='>=0.13.7']
   - earthaccess
+  - iprogress
+  - ca-certificates
+  - certifi
+  - openssl
+  - widgetsnbextension
+  - ipywidgets
+  - earthengine-api
+  - geemap
+  - xarray-spatial

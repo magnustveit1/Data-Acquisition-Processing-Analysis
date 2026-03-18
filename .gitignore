@@ -211,3 +211,4 @@ files/*
 Figures/*
 SNOTEL_sln.ipynb
 cache/*
+input_data/*
